@@ -1,17 +1,10 @@
 <footer role="contentinfo" id="site-footer">
   <center>
-<a href="https://forms.gle/MWxPNyAmY9PNSX5N9" class="btn" target="_blank"><i class="fa fa-user-plus"></i> Sign up to Mailing List</a> <a href="https://forms.gle/22f2FRWh3nvp3KJj7" class="btn" target="_blank"><i class="fa fa-comments"></i> Give Feedback</a> <a href="https://Benthic-BRUVs-field-manual.github.io/files/FieldManuals_NESPMarineHub_Chapter5_BRUV.pdf" class="btn" target="_blank"><i class="fa fa-download"></i> Download Manual</a> </center>
-	<nav role="navigation" class="menu bottom-menu">
-    	  <img src= "{{ site.url }}/images/NESP-footer.png" width="100%" height="30%">
-		<ul class="menu-item">
-		{% for link in site.data.footer %}
-      {% if link.url contains 'http' %}
-        {% assign domain = '' %}
-        {% else %}
-        {% assign domain = site.url %}
-      {% endif %}
-      {% endfor %}
-		</ul>
-	</nav><!-- /.bottom-menu -->
+{% for link in site.data.footer %}
+    <a href="{{ link.url }}" class="btn" target="_blank"><i class="{{ link.icon }}"></i> {{ link.title }}</a>
+{% endfor %}
+  </center>
+
+<!-- /.bottom-menu -->
 	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> developed by Brooke Gibbons.</p>
 </footer>

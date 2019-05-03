@@ -1,5 +1,10 @@
 # Footer navigation links
-
-#- title: "Download pdf version of manual"
-#  url: https://Marine-sampling-field-manual.github.io/files/FieldManuals_NESPMarineHub_Chapter5_BRUV_v1.pdf
-#  icon: download-to-storage-drive.svg
+- title: "Sign up to Mailing List"
+  url: https://forms.gle/8qT4dAEkNQ7odiLV7
+  icon: fa fa-user-plus
+- title: "Give feedback"
+  url: https://forms.gle/H9Qwk6wZi1RHGYhJA
+  icon: fa fa-comments
+- title: "Download Manual"
+  url: https://benthic-bruvs-field-manual.github.io/files/FieldManuals_NESPMarineHub_Chapter5_BRUV.pdf
+  icon: fa fa-download
