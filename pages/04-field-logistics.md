@@ -1,12 +1,29 @@
 ---
 layout: home
-permalink: /field-methodology-checklist
-title: "Field Methodology Checklist"
+permalink: /field-logistics
+title: "Field Logistics"
 excerpt: "<br>"
 image:
   feature: /banners/04_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
+
+# Field logistics
+
+Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for deploying and retrieving stereo-BRUVs in deeper waters (Fig 2), however, light-weight stereo-BRUVs (Supp. 2) can be retrieved by hand. Comparable trap fishing retrieval methods are generally the most efficient. Each retrieval design remains dependent on the type of vessel used, stereo-BRUV weight and size, and prevailing sea conditions. Local fishers familiar with a study location can provide valuable advice on sampling logistics. Multiple stereo-BRUVs can be deployed concurrently, with ~10 stereo-BRUV systems providing optimum logistical efficiency for 60 minute deployment times. Crepuscular periods should be avoided due to demonstrated changes in fish behaviour during these times (Myers _et al._ 2016; Bond _et al._ 2018a). When sampling in low light conditions, both blue (450-465 nm) and white (550–560 nm) lights can be used. White can provide the best imagery for identification (Birt _et al._ 2019), but blue has been found to avoid potential behavioural biases and reduce backscatter from plankton at night (Fitzpatrick, McLean & Harvey 2013). Field methodology checklists are provided in Supp. 3.
+
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.png "image_tooltip")
+
+
+Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessels using different equipment. A: deploying a stereo-BRUV using an A-frame and pulley at the vessel’s stern; B: deploying a stereo-BRUV with weights and a light from the side of a vessel; C: deploying light-weight stereo-BRUV from a small rigid inflatable (see Supp. 2); D: using a ‘pot winch’ and ‘pot tipper’ to quickly retrieve stereo-BRUVs in deep water; E: retrieving a stereo-BRUV using a davit arm from the side of a vessel; F: retrieving stereo-BRUVs by hand using an repurposed anchor hauler in the Philippines.
+
+
+# Field methodology checklists
 
 ## Pre-field work
 

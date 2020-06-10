@@ -9,11 +9,15 @@
   image: /5x8/00_5x8.jpg
 - title: "Stereo-BRUV design"
   url: https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design
-  excerpt: "Cameras and photogrammetry, bait, deployment time, field logistics"
+  excerpt: "Cameras and photogrammetry, bait, deployment time and variations."
   image: /5x8/01_5x8.jpg
-- title: "Field Methodology Checklist"
-  url: https://benthic-bruvs-field-manual.github.io/field-methodology-checklist
-  excerpt: "Cameras and photogrammetry, bait, deployment time, field logistics"
+- title: "Sampling design"
+  url: https://benthic-bruvs-field-manual.github.io/sampling-design
+  excerpt: ""
+  image: /5x8/01_5x8.jpg
+- title: "Field logistics"
+  url: https://benthic-bruvs-field-manual.github.io/field-logistics
+  excerpt: "Field methodology checklist"
   image: /5x8/01_5x8.jpg
 - title: "Image annotations"
   url: https://benthic-bruvs-field-manual.github.io/image-annotations
@@ -27,23 +31,15 @@
   url: https://benthic-bruvs-field-manual.github.io/acknowledgments
   excerpt: ""
   image: /5x8/04_5x8.jpg
+- title: "Field Manual Maintenance"
+  url: https://benthic-bruvs-field-manual.github.io/field-manual-maintenance
+  excerpt: "Version control and an example metadata table"
+  image: /5x8/07_5x8.jpg
+- title: "References"
+  url: https://benthic-bruvs-field-manual.github.io/references
+  excerpt: "Literature cited"
+  image: /5x8/08_5x8.jpg
 - title: "Stereo-BRUV studies by topic"
   url: https://benthic-bruvs-field-manual.github.io/bruv-studies
   excerpt: ""
   image: /5x8/04_5x8.jpg 
-- title: "Stereo-BRUV design variations"
-  url: https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design-variations
-  excerpt: ""
-  image: /5x8/04_5x8.jpg 
-- title: "Australian standards for data management, release, and discoverability"
-  url: https://benthic-bruvs-field-manual.github.io/standards
-  excerpt: ""
-  image: /5x8/04_5x8.jpg 
-- title: "Field Manual Maintenance"
-  url: https://benthic-bruvs-field-manual.github.io//field-manual-maintenance
-  excerpt: "Version control and an example metadata table"
-  image: /5x8/07_5x8.jpg
-- title: "References"
-  url: https://benthic-bruvs-field-manual.github.io//references
-  excerpt: "Literature cited"
-  image: /5x8/08_5x8.jpg
