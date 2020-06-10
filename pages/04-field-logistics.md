@@ -18,7 +18,7 @@ Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for 
 
 Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessels using different equipment. A: deploying a stereo-BRUV using an A-frame and pulley at the vessel’s stern; B: deploying a stereo-BRUV with weights and a light from the side of a vessel; C: deploying light-weight stereo-BRUV from a small rigid inflatable (see Supp. 2); D: using a ‘pot winch’ and ‘pot tipper’ to quickly retrieve stereo-BRUVs in deep water; E: retrieving a stereo-BRUV using a davit arm from the side of a vessel; F: retrieving stereo-BRUVs by hand using an repurposed anchor hauler in the Philippines.
 
-## Supp 2: Stereo-BRUV Design Variations
+## *Supp 2: Stereo-BRUV Design Variations*
 
 ![alt_text](images/figures/supp2fig1.jpg "image_tooltip")
 
@@ -35,7 +35,7 @@ Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessel
 
 **Supp Figure 3**:  Stereo-BRUV systems developed by the Australian Institute of Marine Science (AIMS). Designed to be easily assembled and packed down with detachable legs that occupy minimal space when shipping. The cameras are inwardly converged at 5 degrees and separated by 650mm. Camera cradles are precision machined and have a locating pin that aligns with the back of the camera housing which allows for housings to be easily removed from the frame (for battery change, downloading etc.) and put back in the exact same position, maintaining camera calibration. A plate across the top of the frame allows for additional backward facing cameras or lights to be attached. The lack of rails along the front and back of the frame footing reduces potential for seabed snags and minimises contact with seabed habitats.
 
-## Supp 3: Field Methodology Checklists
+## *Supp 3: Field Methodology Checklists*
 
 ## Pre-field work
 
