@@ -252,7 +252,7 @@ R workflows and function packages are provided in a GitHub repository (Langlois 
 
 ## Data storage, discoverability and release
 
-We encourage open data policies and recommend archiving and sharing stereo-BRUV annotations on global biodiversity data repositories, such as OBIS (Ocean Biogeographic Information System), GBIF (Global Biodiversity Information Facility) and the recently developed GlobalArchive ([globalarchive.org](about:blank)). GlobalArchive is a centralised repository that allows open access and private sharing of fish image annotation data from stereo-BRUVs or similar imagery-based sampling techniques. GlobalArchive allows users to store data in a standardised and secure manner and makes meta-data discoverable, thus encouraging collaboration and synthesis of datasets within the community of practice. We recommend all quality controlled annotation data and any associated calibration, taxa and habitat data should be uploaded to GlobalArchive and we encourage that all data should be made publicly available via the public data option. As an example, the Australian standards for data management, discoverability and release are provided in [Supp. 6]().
+We encourage open data policies and recommend archiving and sharing stereo-BRUV annotations on global biodiversity data repositories, such as OBIS (Ocean Biogeographic Information System), GBIF (Global Biodiversity Information Facility) and the recently developed GlobalArchive ([globalarchive.org](about:blank)). GlobalArchive is a centralised repository that allows open access and private sharing of fish image annotation data from stereo-BRUVs or similar imagery-based sampling techniques. GlobalArchive allows users to store data in a standardised and secure manner and makes meta-data discoverable, thus encouraging collaboration and synthesis of datasets within the community of practice. We recommend all quality controlled annotation data and any associated calibration, taxa and habitat data should be uploaded to GlobalArchive and we encourage that all data should be made publicly available via the public data option. As an example, the Australian standards for data management, discoverability and release are provided in [Supp. 6](https://benthic-bruvs-field-manual.github.io/image-annotations#supp-6-australian-standards-for-data-management-release-and-discoverability-of-stereo-bruv-data).
 
 ## Supp 6: Australian standards for data management, release, and discoverability of stereo-BRUV data
 <h2><strong>Quality control and data curation</strong></h2>
@@ -329,3 +329,101 @@ Lodging metadata with AODN in advance of annotation data being available is an i
 <li>Produce a technical or post-survey report documenting the purpose of the survey, sampling design, sampling locations, sampling equipment specifications, annotation schema, and any challenges or limitations encountered. Provide links to this report in all associated metadata.
 </li>
 </ol>
+
+## Supp. 7: Australian National BRUV working group, as of May 2020.
+
+<table>
+  <tr>
+   <td>Name
+   </td>
+   <td>State
+   </td>
+   <td>Organisation
+   </td>
+  </tr>
+  <tr>
+   <td>Euan Harvey*
+   </td>
+   <td>Western Australia
+   </td>
+   <td>Curtin
+   </td>
+  </tr>
+  <tr>
+   <td>Tim Langlois
+   </td>
+   <td>Western Australia
+   </td>
+   <td>UWA
+   </td>
+  </tr>
+  <tr>
+   <td>Neville Barrett
+   </td>
+   <td>Tasmania
+   </td>
+   <td>IMAS
+   </td>
+  </tr>
+  <tr>
+   <td>Jacquomo Monk
+   </td>
+   <td>Tasmania/Victoria
+   </td>
+   <td>IMAS
+   </td>
+  </tr>
+  <tr>
+   <td>Nathan Knott
+   </td>
+   <td>New South Wales
+   </td>
+   <td>NSW DPI
+   </td>
+  </tr>
+  <tr>
+   <td>Hamish Malcolm
+   </td>
+   <td>New South Wales
+   </td>
+   <td>NSW DPI
+   </td>
+  </tr>
+  <tr>
+   <td>Daniel Ierodiaconou
+   </td>
+   <td>Victoria
+   </td>
+   <td>Deakin
+   </td>
+  </tr>
+  <tr>
+   <td>Charlie Huveneers
+   </td>
+   <td>South Australia
+   </td>
+   <td>Flinders University
+   </td>
+  </tr>
+  <tr>
+   <td>Daniel Brock
+   </td>
+   <td>South Australia
+   </td>
+   <td>SA DEWNR
+   </td>
+  </tr>
+  <tr>
+   <td>Leanne Currey
+   </td>
+   <td>Queensland
+   </td>
+   <td>AIMS
+   </td>
+  </tr>
+</table>
+
+
+<p>
+* Chair
+</p>
