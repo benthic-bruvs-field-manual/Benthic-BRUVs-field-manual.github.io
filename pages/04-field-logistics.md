@@ -10,7 +10,7 @@ image:
 
 # Field logistics
 
-Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for deploying and retrieving stereo-BRUVs in deeper waters (Fig 2), however, light-weight stereo-BRUVs (Supp. 2) can be retrieved by hand. Comparable trap fishing retrieval methods are generally the most efficient. Each retrieval design remains dependent on the type of vessel used, stereo-BRUV weight and size, and prevailing sea conditions. Local fishers familiar with a study location can provide valuable advice on sampling logistics. Multiple stereo-BRUVs can be deployed concurrently, with ~10 stereo-BRUV systems providing optimum logistical efficiency for 60 minute deployment times. Crepuscular periods should be avoided due to demonstrated changes in fish behaviour during these times (Myers _et al._ 2016; Bond _et al._ 2018a). When sampling in low light conditions, both blue (450-465 nm) and white (550–560 nm) lights can be used. White can provide the best imagery for identification (Birt _et al._ 2019), but blue has been found to avoid potential behavioural biases and reduce backscatter from plankton at night (Fitzpatrick, McLean & Harvey 2013). Field methodology checklists are provided in Supp. 3.
+Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for deploying and retrieving stereo-BRUVs in deeper waters (Fig 2), however, light-weight stereo-BRUVs ([Supp. 2](https://benthic-bruvs-field-manual.github.io/field-logistics#supp.-2-stereo-bruv-design-variations)) can be retrieved by hand. Comparable trap fishing retrieval methods are generally the most efficient. Each retrieval design remains dependent on the type of vessel used, stereo-BRUV weight and size, and prevailing sea conditions. Local fishers familiar with a study location can provide valuable advice on sampling logistics. Multiple stereo-BRUVs can be deployed concurrently, with ~10 stereo-BRUV systems providing optimum logistical efficiency for 60 minute deployment times. Crepuscular periods should be avoided due to demonstrated changes in fish behaviour during these times (Myers _et al._ 2016; Bond _et al._ 2018a). When sampling in low light conditions, both blue (450-465 nm) and white (550–560 nm) lights can be used. White can provide the best imagery for identification (Birt _et al._ 2019), but blue has been found to avoid potential behavioural biases and reduce backscatter from plankton at night (Fitzpatrick, McLean & Harvey 2013). Field methodology checklists are provided in Supp. 3.
 
 
 
@@ -19,7 +19,7 @@ Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for 
 
 Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessels using different equipment. A: deploying a stereo-BRUV using an A-frame and pulley at the vessel’s stern; B: deploying a stereo-BRUV with weights and a light from the side of a vessel; C: deploying light-weight stereo-BRUV from a small rigid inflatable (see Supp. 2); D: using a ‘pot winch’ and ‘pot tipper’ to quickly retrieve stereo-BRUVs in deep water; E: retrieving a stereo-BRUV using a davit arm from the side of a vessel; F: retrieving stereo-BRUVs by hand using an repurposed anchor hauler in the Philippines.
 
-# Stereo-BRUV Design Variations
+# Supp. 2 Stereo-BRUV Design Variations
 
 ![alt_text](images/figures/supp2fig1.jpg "image_tooltip")
 
