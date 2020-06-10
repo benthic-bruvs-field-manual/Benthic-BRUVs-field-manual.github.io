@@ -19,11 +19,26 @@ Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for 
 
 Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessels using different equipment. A: deploying a stereo-BRUV using an A-frame and pulley at the vessel’s stern; B: deploying a stereo-BRUV with weights and a light from the side of a vessel; C: deploying light-weight stereo-BRUV from a small rigid inflatable (see Supp. 2); D: using a ‘pot winch’ and ‘pot tipper’ to quickly retrieve stereo-BRUVs in deep water; E: retrieving a stereo-BRUV using a davit arm from the side of a vessel; F: retrieving stereo-BRUVs by hand using an repurposed anchor hauler in the Philippines.
 
+# Stereo-BRUV Design Variations
+
+![alt_text](images/figures/supp2fig1.jpg "image_tooltip")
+
+**Supp 2 Figure 1**:  Stereo-BRUV systems, including (A) standard dimensions, and (B) addition of weights for deeper water deployment and added forward and rear facing lights and rear facing stills camera to collect habitat imagery. 
+
+
+![alt_text](images/figures/supp2fig2.png "image_tooltip")
+
+**Supp Figure 2**:  Light weight stereo-BRUV. (A) Frame made of thin gauge stainless steel. Diode arm is passed through the back and front of the frame and not attached to the base bar. This reduces strain to the base bar during retrieval and allows the base bar to be made of light-weight hollow aluminum rectangular section (D). Base bar uses hooks and bungee cords to attach to the frame. The separation of cameras has been reduced to 500mm, with camera convergence of 5 degrees, to decrease the size of systems and making them easier for (B) travel with and use on smaller vessels and can be (C) hand-hauled. For research projects led by partners without expertise in stereo calibrations, (E) frames can be manufactured locally and pre-calibrated light-weight base bars can be sent to study site. See this video example of [deploying light weight stereo-BRUV](https://youtu.be/xMrsWunUf3k)
+
+
+![alt_text](images/figures/supp2fig3A.png "image_tooltip")
+![alt_text](images/figures/Supp2Fig3B.png "image_tooltip")
+
+**Supp Figure 3**:  Stereo-BRUV systems developed by the Australian Institute of Marine Science (AIMS). Designed to be easily assembled and packed down with detachable legs that occupy minimal space when shipping. The cameras are inwardly converged at 5 degrees and separated by 650mm. Camera cradles are precision machined and have a locating pin that aligns with the back of the camera housing which allows for housings to be easily removed from the frame (for battery change, downloading etc.) and put back in the exact same position, maintaining camera calibration. A plate across the top of the frame allows for additional backward facing cameras or lights to be attached. The lack of rails along the front and back of the frame footing reduces potential for seabed snags and minimises contact with seabed habitats.
 
 # Field methodology checklists
 
 ## Pre-field work
-
 
 1. Check equipment as shown in Figure 1.
 2. Conduct 3D calibration of stereo-camera pairs. We recommend an enclosed pool environment with good visibility. This must be repeated at the end of the field campaign, or if any camera or housing positions have changed.
@@ -36,8 +51,6 @@ Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessel
 
 ## Pre-deployment
 
-
-
 1. Set up stereo-BRUVs, including ropes and floats.
 2. Check camera batteries are charged and memory cards are formatted.
 3. Check the batteries in lights and synchronising devices if applicable. 
@@ -48,7 +61,6 @@ Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessel
 ## Deployment
 
 See this video example of [deploying light weight stereo-BRUV](https://youtu.be/xMrsWunUf3k)
-
 
 
 1. Fill bait containers with ~1 kg of crushed bait.
@@ -66,8 +78,6 @@ See this video example of [deploying light weight stereo-BRUV](https://youtu.be/
 
 ## Retrieval 
 
-
-
 1. Once deployment (sampling) time is complete, vessels should manoeuvre alongside the surface floats heading upwind or upcurrent. 
 2. Crew gaff or grapple the rope between the floats and retrieve slack rope as the vessel manoeuvres over the system. 
 3. Stereo-BRUVs should only be retrieved once the vessel is directly above the deployment site. Stereo-BRUVs retrieved at an angle are prone to being dragged and caught on the benthos. 
@@ -77,4 +87,4 @@ See this video example of [deploying light weight stereo-BRUV](https://youtu.be/
 
 ## End of day checks
 
-Review, download, and backup all footage during or at the end of each day. Save separate samples in a folder structure with clear naming conventions [(see Jordan S. Goetze et al. 2019)](https://paperpile.com/c/ZpRR79/M7q0/?prefix=see). Format memory cards for the next day once the videos have been checked, downloaded, and backed-up. Ensure all field metadata and comments are collected (as in Supp 4).
+Review, download, and backup all footage during or at the end of each day. Save separate samples in a folder structure with clear naming conventions (see Jordan S. Goetze et al. 2019). Format memory cards for the next day once the videos have been checked, downloaded, and backed-up. Ensure all field metadata and comments are collected (as in Supp 4).
