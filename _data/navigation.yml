@@ -9,7 +9,7 @@
   image: /5x8/00_5x8.jpg
 - title: "Stereo-BRUV Design"
   url: https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design
-  excerpt: "Cameras and photogrammetry, bait, deployment time and variations."
+  excerpt: "Cameras and photogrammetry, bait and deployment time."
   image: /5x8/02_5x8.jpg
 - title: "Sampling Design"
   url: https://benthic-bruvs-field-manual.github.io/sampling-design
@@ -17,7 +17,7 @@
   image: /5x8/03_5x8.jpg
 - title: "Field Logistics"
   url: https://benthic-bruvs-field-manual.github.io/field-logistics
-  excerpt: "Field methodology checklist"
+  excerpt: "Stereo-BRUV design variations and field methodology checklist"
   image: /5x8/05_5x8.jpg
 - title: "Image Annotations"
   url: https://benthic-bruvs-field-manual.github.io/image-annotations
