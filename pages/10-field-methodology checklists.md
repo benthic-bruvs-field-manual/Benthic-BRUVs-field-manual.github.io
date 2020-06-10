@@ -8,7 +8,7 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
-## **Pre-field work**
+## Pre-field work
 
 
 1. Check equipment as shown in Figure 1.
@@ -20,7 +20,7 @@ image:
 7. Create a metadata sheet or preferably using a capture device (e.g. Collector for ArcGIS or QGIS, tablet computer with GIS) to record the sample, stereo-camera pair and memory card unique identifier in addition to other essential field data (Supp. 4). By capturing metadata digitally transcription errors and post-field work time are reduced.
 
 
-## **Pre-deployment **
+## Pre-deployment
 
 
 
@@ -31,7 +31,7 @@ image:
 5. Discuss deployment, retrieval procedures and safety with skipper and crew.
 
 
-## **Deployment**
+## Deployment
 
 See this video example of [deploying light weight stereo-BRUV](https://youtu.be/xMrsWunUf3k)
 
@@ -50,7 +50,7 @@ See this video example of [deploying light weight stereo-BRUV](https://youtu.be/
 11. Ensure all field metadata and comments are collected (as in Supp 4).
 
 
-## **Retrieval **
+## Retrieval 
 
 
 
@@ -61,6 +61,6 @@ See this video example of [deploying light weight stereo-BRUV](https://youtu.be/
 5. Ensure all field metadata and comments are collected (as in Supp 4).
 
 
-## **End of day checks**
+## End of day checks
 
 Review, download, and backup all footage during or at the end of each day. Save separate samples in a folder structure with clear naming conventions [(see Jordan S. Goetze et al. 2019)](https://paperpile.com/c/ZpRR79/M7q0/?prefix=see). Format memory cards for the next day once the videos have been checked, downloaded, and backed-up. Ensure all field metadata and comments are collected (as in Supp 4).
