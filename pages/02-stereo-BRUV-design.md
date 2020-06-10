@@ -38,7 +38,7 @@ As a general rule, locally sourced, sardine-type oily bait is recommended (Dorma
 
 Benthic stereo-BRUVs should be deployed for a standard duration. We recommend deployments of 60 min, to allow species detection (Currey-Randall _et al._ 2020), and facilitate comparison with historical data. Deployments of 30 minutes have been demonstrated to be sufficient for sampling particular species of finfish on shallow temperate reefs (Bernard & Götz 2012; Harasti _et al._ 2015). 
 
-**Sampling Design**
+## Sampling Design
 
 Sampling strategies should be designed to ensure valid inferences and interpretations of resulting data (Smith, Anderson & Pawley 2017). We recommend spatially balanced statistical routines, such as R package MBHdesign (Foster _et al._ 2019), which can incorporate environmental information and legacy sites to create sampling designs with known inclusion probabilities (Foster _et al._ 2017, 2018). Due to the need to revisit each site to retrieve stereo-BRUVs after deployment, spatially balanced designs may be inefficient for sampling large regions (>10 minutes transit time between samples), and clustered sampling designs may be preferred (Hill _et al._ 2018).
 
