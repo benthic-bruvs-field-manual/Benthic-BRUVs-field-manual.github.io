@@ -10,23 +10,23 @@
 - title: "Stereo-BRUV design"
   url: https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design
   excerpt: "Cameras and photogrammetry, bait, deployment time and variations."
-  image: /5x8/01_5x8.jpg
+  image: /5x8/02_5x8.jpg
 - title: "Sampling design"
   url: https://benthic-bruvs-field-manual.github.io/sampling-design
   excerpt: ""
-  image: /5x8/01_5x8.jpg
+  image: /5x8/03_5x8.jpg
 - title: "Field logistics"
   url: https://benthic-bruvs-field-manual.github.io/field-logistics
   excerpt: "Field methodology checklist"
-  image: /5x8/01_5x8.jpg
+  image: /5x8/05_5x8.jpg
 - title: "Image annotations"
   url: https://benthic-bruvs-field-manual.github.io/image-annotations
   excerpt: "Software, annotation metadata, abundance estimates, body-size measurements, behaviour, interopable and reproducible annotations, habitat classifcation, quality control and data curation, data storage, discoverability and release"
-  image: /5x8/02_5x8.jpg
+  image: /5x8/09_5x8.jpg
 - title: "Conclusion"
   url: https://benthic-bruvs-field-manual.github.io/conclusion
   excerpt: ""
-  image: /5x8/03_5x8.jpg
+  image: /5x8/06_5x8.jpg
 - title: "Acknowledgments"
   url: https://benthic-bruvs-field-manual.github.io/acknowledgments
   excerpt: ""
@@ -34,8 +34,8 @@
 - title: "Field Manual Maintenance"
   url: https://benthic-bruvs-field-manual.github.io/field-manual-maintenance
   excerpt: "Version control and an example metadata table"
-  image: /5x8/07_5x8.jpg
+  image: /5x8/field-manual-maintenance_teaser.jpg
 - title: "References"
   url: https://benthic-bruvs-field-manual.github.io/references
   excerpt: "Literature cited"
-  image: /5x8/08_5x8.jpg
+  image: /5x8/references_teaser.jpg
