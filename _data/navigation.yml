@@ -33,7 +33,7 @@
   image: /5x8/04_5x8.jpg
 - title: "Field Manual Maintenance"
   url: https://benthic-bruvs-field-manual.github.io/field-manual-maintenance
-  excerpt: "Version control and an example metadata table"
+  excerpt: "Version control"
   image: /5x8/field-manual-maintenance_teaser.jpg
 - title: "References"
   url: https://benthic-bruvs-field-manual.github.io/references
