@@ -17,7 +17,7 @@ BRUV systems with stereo-video cameras (stereo-BRUVs) enable precise measurement
 
 We provide a widely accepted protocol for the use of benthic stereo-BRUVs including information on design, field operation, image annotation, data validation, archiving and synthesis. By providing a standardised protocol for stereo-BRUV surveys, we aim to reduce variation in methodologies among researchers, and encourage the use of Findable, Accessible, Interoperable and Reproducible (FAIR, Wilkinson _et al._ 2016) workflows to increase the ability to synthesise datasets and answer broad-scale ecological questions.
 
-# Supp. 1: BRUV studies by topic.
+## *Supp. 1: BRUV studies by topic.*
 259 studies found using baited underwater cameras showing the purpose of the study. Papers were included in the analysis if published in peer-reviewed literature, bait was used in one or more replicates and if video footage was used rather than still images. The last search (finding 254 studies) was conducted on the 27/05/2019  using the keywords 'baited' and 'video' or 'BRUVS', on Google Scholar, Scopus, Proquest (Aquatic Sciences and Fisheries Abstracts), Biological Abstracts. Extra studies known to the authors were added. The Other category includes studies focusing on anthropogenic stressors, artificial structures, and diurnal changes. Number below show the total number of studies in that category. Individual studies may be included in more than one category.
 
 
