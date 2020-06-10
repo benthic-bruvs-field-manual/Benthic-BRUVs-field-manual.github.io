@@ -23,6 +23,10 @@
   url: https://benthic-bruvs-field-manual.github.io/acknowledgments
   excerpt: ""
   image: /5x8/04_5x8.jpg
+- title: "Stereo-BRUV studies by topic"
+  url: https://benthic-bruvs-field-manual.github.io/bruv-studies
+  excerpt: ""
+  image: /5x8/04_5x8.jpg 
 - title: "Field Manual Maintenance"
   url: https://benthic-bruvs-field-manual.github.io//field-manual-maintenance
   excerpt: "Version control and an example metadata table"
