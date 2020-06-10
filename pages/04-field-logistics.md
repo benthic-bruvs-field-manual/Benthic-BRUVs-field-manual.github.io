@@ -10,8 +10,7 @@ image:
 
 # Field logistics
 
-Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for deploying and retrieving stereo-BRUVs in deeper waters (Fig 2), however, light-weight stereo-BRUVs ([Supp. 2](https://benthic-bruvs-field-manual.github.io/field-logistics#supp.-2-stereo-bruv-design-variations)) can be retrieved by hand. Comparable trap fishing retrieval methods are generally the most efficient. Each retrieval design remains dependent on the type of vessel used, stereo-BRUV weight and size, and prevailing sea conditions. Local fishers familiar with a study location can provide valuable advice on sampling logistics. Multiple stereo-BRUVs can be deployed concurrently, with ~10 stereo-BRUV systems providing optimum logistical efficiency for 60 minute deployment times. Crepuscular periods should be avoided due to demonstrated changes in fish behaviour during these times (Myers _et al._ 2016; Bond _et al._ 2018a). When sampling in low light conditions, both blue (450-465 nm) and white (550–560 nm) lights can be used. White can provide the best imagery for identification (Birt _et al._ 2019), but blue has been found to avoid potential behavioural biases and reduce backscatter from plankton at night (Fitzpatrick, McLean & Harvey 2013). Field methodology checklists are provided in Supp. 3.
-
+Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for deploying and retrieving stereo-BRUVs in deeper waters (Fig 2), however, light-weight stereo-BRUVs ([Supp. 2](https://benthic-bruvs-field-manual.github.io/field-logistics#supp.-2-stereo-bruv-design-variations)) can be retrieved by hand. Comparable trap fishing retrieval methods are generally the most efficient. Each retrieval design remains dependent on the type of vessel used, stereo-BRUV weight and size, and prevailing sea conditions. Local fishers familiar with a study location can provide valuable advice on sampling logistics. Multiple stereo-BRUVs can be deployed concurrently, with ~10 stereo-BRUV systems providing optimum logistical efficiency for 60 minute deployment times. Crepuscular periods should be avoided due to demonstrated changes in fish behaviour during these times (Myers _et al._ 2016; Bond _et al._ 2018a). When sampling in low light conditions, both blue (450-465 nm) and white (550–560 nm) lights can be used. White can provide the best imagery for identification (Birt _et al._ 2019), but blue has been found to avoid potential behavioural biases and reduce backscatter from plankton at night (Fitzpatrick, McLean & Harvey 2013). Field methodology checklists are provided in [Supp. 3](https://benthic-bruvs-field-manual.github.io/field-logistics#field-methodology-checklists).
 
 
 ![alt_text](images/figures/Fig2.png "image_tooltip")
@@ -19,7 +18,7 @@ Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for 
 
 Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessels using different equipment. A: deploying a stereo-BRUV using an A-frame and pulley at the vessel’s stern; B: deploying a stereo-BRUV with weights and a light from the side of a vessel; C: deploying light-weight stereo-BRUV from a small rigid inflatable (see Supp. 2); D: using a ‘pot winch’ and ‘pot tipper’ to quickly retrieve stereo-BRUVs in deep water; E: retrieving a stereo-BRUV using a davit arm from the side of a vessel; F: retrieving stereo-BRUVs by hand using an repurposed anchor hauler in the Philippines.
 
-# Supp. 2 Stereo-BRUV Design Variations
+# Supp 2: Stereo-BRUV Design Variations
 
 ![alt_text](images/figures/supp2fig1.jpg "image_tooltip")
 
@@ -36,7 +35,7 @@ Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessel
 
 **Supp Figure 3**:  Stereo-BRUV systems developed by the Australian Institute of Marine Science (AIMS). Designed to be easily assembled and packed down with detachable legs that occupy minimal space when shipping. The cameras are inwardly converged at 5 degrees and separated by 650mm. Camera cradles are precision machined and have a locating pin that aligns with the back of the camera housing which allows for housings to be easily removed from the frame (for battery change, downloading etc.) and put back in the exact same position, maintaining camera calibration. A plate across the top of the frame allows for additional backward facing cameras or lights to be attached. The lack of rails along the front and back of the frame footing reduces potential for seabed snags and minimises contact with seabed habitats.
 
-# Field methodology checklists
+# Supp 3: Field methodology checklists
 
 ## Pre-field work
 
