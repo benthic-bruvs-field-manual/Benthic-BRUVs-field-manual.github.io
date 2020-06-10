@@ -11,6 +11,10 @@
   url: https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design
   excerpt: "Cameras and photogrammetry, bait, deployment time, field logistics"
   image: /5x8/01_5x8.jpg
+- title: "Field Methodology Checklist"
+  url: https://benthic-bruvs-field-manual.github.io/field-methodology-checklist
+  excerpt: "Cameras and photogrammetry, bait, deployment time, field logistics"
+  image: /5x8/01_5x8.jpg
 - title: "Image annotations"
   url: https://benthic-bruvs-field-manual.github.io/image-annotations
   excerpt: "Software, annotation metadata, abundance estimates, body-size measurements, behaviour, interopable and reproducible annotations, habitat classifcation, quality control and data curation, data storage, discoverability and release"
@@ -29,6 +33,10 @@
   image: /5x8/04_5x8.jpg 
 - title: "Stereo-BRUV design variations"
   url: https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design-variations
+  excerpt: ""
+  image: /5x8/04_5x8.jpg 
+- title: "Australian standards for data management, release, and discoverability"
+  url: https://benthic-bruvs-field-manual.github.io/standards
   excerpt: ""
   image: /5x8/04_5x8.jpg 
 - title: "Field Manual Maintenance"

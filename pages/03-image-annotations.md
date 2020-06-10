@@ -25,7 +25,200 @@ We recommend all fish be identified to the lowest taxonomic level possible. The 
 
 ## Body-size measurements
 
-Synchronised and calibrated stereo-video streams are used to accurately measure body size. All individuals of each species should be measured at their MaxN. We recommend measuring fork length rather than total length, as it is more easily definable across a range of species. Biomass estimates typically rely on total length, but fork length to total length conversions can be used to complete these calculations (Froese & Pauly 2019). For species where total length can be unreliable or there is no definable fork, body size is estimated using other measures (e.g. disk length for rays). Photogrammetric length measurements are typically made with some degree of error, which can be minimised by measuring individuals when they are as close to cameras as possible with both the nose and the tail-fork clearly visible, still or slowly moving, at an angle less than 45° perpendicular to the cameras. Defining cut-offs for measurement error across projects will help to maintain accurate and precise body-size estimates, we provide recommended stereo-measurement length rules for EventMeasure in Supp. 5. If fish cannot be measured within these parameters, a ‘3D point’ may be used for annotation, which records the 3D location of the fish to ensure it is within the sampling area (Harvey _et al._ 2004). To create a relative abundance metric standardised to a consistent sample area, abundance should be summed from the lengths and 3D points at the MaxN for each species. For biomass estimates, 3D points provide a basis for extrapolating a median length value to fish that could not be measured (Wilson _et al._ 2018). When large tightly packed schools are encountered, fish that cannot be measured should have 3D points. When lengths or 3D points are not possible for every fish, multiple individuals can be assigned to a single length or 3D point, but care should be taken to represent the range of body sizes within a school.
+Synchronised and calibrated stereo-video streams are used to accurately measure body size. All individuals of each species should be measured at their MaxN. We recommend measuring fork length rather than total length, as it is more easily definable across a range of species. Biomass estimates typically rely on total length, but fork length to total length conversions can be used to complete these calculations (Froese & Pauly 2019). For species where total length can be unreliable or there is no definable fork, body size is estimated using other measures (e.g. disk length for rays). Photogrammetric length measurements are typically made with some degree of error, which can be minimised by measuring individuals when they are as close to cameras as possible with both the nose and the tail-fork clearly visible, still or slowly moving, at an angle less than 45° perpendicular to the cameras. Defining cut-offs for measurement error across projects will help to maintain accurate and precise body-size estimates, we provide recommended stereo-measurement length rules for EventMeasure in the table below. If fish cannot be measured within these parameters, a ‘3D point’ may be used for annotation, which records the 3D location of the fish to ensure it is within the sampling area (Harvey _et al._ 2004). To create a relative abundance metric standardised to a consistent sample area, abundance should be summed from the lengths and 3D points at the MaxN for each species. For biomass estimates, 3D points provide a basis for extrapolating a median length value to fish that could not be measured (Wilson _et al._ 2018). When large tightly packed schools are encountered, fish that cannot be measured should have 3D points. When lengths or 3D points are not possible for every fish, multiple individuals can be assigned to a single length or 3D point, but care should be taken to represent the range of body sizes within a school.
+
+
+Recommended stereo-measurement length rules for EventMeasure.
+
+<table>
+  <tr>
+   <td><strong>Name</strong>
+   </td>
+   <td><strong>Data</strong>
+   </td>
+   <td><strong>Units</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Use lengths rules
+   </td>
+   <td>True
+   </td>
+   <td>Boolean
+   </td>
+  </tr>
+  <tr>
+   <td>Apply range rule
+   </td>
+   <td>True
+   </td>
+   <td>Boolean
+   </td>
+  </tr>
+  <tr>
+   <td>Minimum range
+   </td>
+   <td>0.0000
+   </td>
+   <td>mm
+   </td>
+  </tr>
+  <tr>
+   <td>Maximum range
+   </td>
+   <td>8000.0000
+   </td>
+   <td>mm
+   </td>
+  </tr>
+  <tr>
+   <td>Apply RMS rules
+   </td>
+   <td>True
+   </td>
+   <td>Boolean
+   </td>
+  </tr>
+  <tr>
+   <td>Maximum RMS
+   </td>
+   <td>20.0000
+   </td>
+   <td>mm
+   </td>
+  </tr>
+  <tr>
+   <td>Apply precision to length ratio rules
+   </td>
+   <td>True
+   </td>
+   <td>Boolean
+   </td>
+  </tr>
+  <tr>
+   <td>Maximum precision to length ratio
+   </td>
+   <td>10.0000
+   </td>
+   <td>%
+   </td>
+  </tr>
+  <tr>
+   <td>Apply precision rule
+   </td>
+   <td>False
+   </td>
+   <td>Boolean
+   </td>
+  </tr>
+  <tr>
+   <td>Maximum precision
+   </td>
+   <td>10.0000
+   </td>
+   <td>mm
+   </td>
+  </tr>
+  <tr>
+   <td>Apply direction rule
+   </td>
+   <td>False
+   </td>
+   <td>Boolean
+   </td>
+  </tr>
+  <tr>
+   <td>Maximum direction
+   </td>
+   <td>45.0000
+   </td>
+   <td>Degrees
+   </td>
+  </tr>
+  <tr>
+   <td>Apply horizontal direction rule
+   </td>
+   <td>False
+   </td>
+   <td>Boolean
+   </td>
+  </tr>
+  <tr>
+   <td>Maximum horizontal direction
+   </td>
+   <td>45.0000
+   </td>
+   <td>Degrees
+   </td>
+  </tr>
+  <tr>
+   <td>Apply vertical direction rule
+   </td>
+   <td>False
+   </td>
+   <td>Boolean
+   </td>
+  </tr>
+  <tr>
+   <td>Maximum vertical direction
+   </td>
+   <td>45.0000
+   </td>
+   <td>Degrees
+   </td>
+  </tr>
+  <tr>
+   <td>Apply x coordinate range rule
+   </td>
+   <td>False
+   </td>
+   <td>Boolean
+   </td>
+  </tr>
+  <tr>
+   <td>Minimum x coordinate
+   </td>
+   <td>-2500.0000
+   </td>
+   <td>mm
+   </td>
+  </tr>
+  <tr>
+   <td>Maximum x coordinate
+   </td>
+   <td>2500.0000
+   </td>
+   <td>mm
+   </td>
+  </tr>
+  <tr>
+   <td>Apply y coordinate range rule
+   </td>
+   <td>False
+   </td>
+   <td>Boolean
+   </td>
+  </tr>
+  <tr>
+   <td>Minimum y coordinate
+   </td>
+   <td>-2500.0000
+   </td>
+   <td>mm
+   </td>
+  </tr>
+  <tr>
+   <td>Maximum y coordinate
+   </td>
+   <td>2500.0000
+   </td>
+   <td>mm
+   </td>
+  </tr>
+</table>
+
+
+ 
 
 
 ## Behaviour
