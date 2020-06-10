@@ -54,7 +54,7 @@ Quality control and data curation are vital to ensure FAIR data workflows (Wilki
 *   Quality assurance should be carried out by a senior video analyst or researcher and involve a random review of 10% of annotated videos and data within a project. If accuracy is below 95 % for all identifications and estimates of MaxN, reannotation should be undertaken.
 *   Unique identifiers of annotators and dates of when imagery was annotated should be maintained to provide a data checking trail (see Supp. 4).
 
-R workflows and function packages are provided in a GitHub repository(Langlois 2020)to enable validation with regional species lists and likely minimum and maximum sizes for each species.
+R workflows and function packages are provided in a GitHub repository (Langlois 2020) to enable validation with regional species lists and likely minimum and maximum sizes for each species.
 
 
 ### Data storage, discoverability and release

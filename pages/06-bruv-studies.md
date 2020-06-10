@@ -2,20 +2,14 @@
 layout: home
 permalink: /bruv-studies 
 title: "BRUV studies by topic"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/04_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 
-<p>
-<strong>Supp. 1:</strong> BRUV studies by topic.
-</p>
 
-
-
-<pre class="prettyprint">Appendix II: 259 studies found using baited underwater cameras showing the purpose of the study. Papers were included in the analysis if published in peer-reviewed literature, bait was used in one or more replicates and if video footage was used rather than still images. The last search (finding 254 studies) was conducted on the 27/05/2019  using the keywords 'baited' and 'video' or 'BRUVS', on Google Scholar, Scopus, Proquest (Aquatic Sciences and Fisheries Abstracts), Biological Abstracts. Extra studies known to the authors were added. The Other category includes studies focusing on anthropogenic stressors, artificial structures, and diurnal changes. Number below show the total number of studies in that category. Individual studies may be included in more than one category.</pre>
-
+Appendix II: 259 studies found using baited underwater cameras showing the purpose of the study. Papers were included in the analysis if published in peer-reviewed literature, bait was used in one or more replicates and if video footage was used rather than still images. The last search (finding 254 studies) was conducted on the 27/05/2019  using the keywords 'baited' and 'video' or 'BRUVS', on Google Scholar, Scopus, Proquest (Aquatic Sciences and Fisheries Abstracts), Biological Abstracts. Extra studies known to the authors were added. The Other category includes studies focusing on anthropogenic stressors, artificial structures, and diurnal changes. Number below show the total number of studies in that category. Individual studies may be included in more than one category.
 
 
 <table>
