@@ -14,10 +14,7 @@ Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for 
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](images/figures/Fig2.png "image_tooltip")
 
 
 Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessels using different equipment. A: deploying a stereo-BRUV using an A-frame and pulley at the vessel’s stern; B: deploying a stereo-BRUV with weights and a light from the side of a vessel; C: deploying light-weight stereo-BRUV from a small rigid inflatable (see Supp. 2); D: using a ‘pot winch’ and ‘pot tipper’ to quickly retrieve stereo-BRUVs in deep water; E: retrieving a stereo-BRUV using a davit arm from the side of a vessel; F: retrieving stereo-BRUVs by hand using an repurposed anchor hauler in the Philippines.

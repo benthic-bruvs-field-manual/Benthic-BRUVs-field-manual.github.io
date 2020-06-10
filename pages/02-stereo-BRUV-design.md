@@ -12,11 +12,7 @@ layout: home
 Stereo-BRUV systems consist of two convergent video cameras inside waterproof housings, attached to a base-bar (Fig. 1b), held in a frame (Fig. 1a), with some form of baited container in front of the cameras (Fig. 1e). Systems are generally tethered by rope to surface buoys (Fig. 1c). Ballast can be added to frames for use in deep-water or areas of strong current (Fig.1f). 
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](images/figures/Fig1.png "image_tooltip")
 
 
 **Figure 1**:  Equipment required for stereo-BRUV surveys, including (a) mild-steel galvanized frame and bridle, (b) stereo base-bar and camera housings, (c) rope with detachable float line and two floats, (d) storage container for equipment and bait, (e) PVC bait arm (reinforced with fiberglass rod) with mesh bait bag and supporting metal diode arm, (f) metal weights for deep-water or strong current, (g) long-armed glove for handling bait, and (h) dry kit including calibrated cameras fixed to face plates, spare cameras, spare batteries, battery charger, micro-sd card reader, micro-sd cards, standard tools, cable ties to secure bait bags, and silicone grease for o-rings.
