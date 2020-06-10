@@ -28,7 +28,7 @@ We recommend all fish be identified to the lowest taxonomic level possible. The 
 Synchronised and calibrated stereo-video streams are used to accurately measure body size. All individuals of each species should be measured at their MaxN. We recommend measuring fork length rather than total length, as it is more easily definable across a range of species. Biomass estimates typically rely on total length, but fork length to total length conversions can be used to complete these calculations (Froese & Pauly 2019). For species where total length can be unreliable or there is no definable fork, body size is estimated using other measures (e.g. disk length for rays). Photogrammetric length measurements are typically made with some degree of error, which can be minimised by measuring individuals when they are as close to cameras as possible with both the nose and the tail-fork clearly visible, still or slowly moving, at an angle less than 45° perpendicular to the cameras. Defining cut-offs for measurement error across projects will help to maintain accurate and precise body-size estimates, we provide recommended stereo-measurement length rules for EventMeasure in [Supp. 5]() below. If fish cannot be measured within these parameters, a ‘3D point’ may be used for annotation, which records the 3D location of the fish to ensure it is within the sampling area (Harvey _et al._ 2004). To create a relative abundance metric standardised to a consistent sample area, abundance should be summed from the lengths and 3D points at the MaxN for each species. For biomass estimates, 3D points provide a basis for extrapolating a median length value to fish that could not be measured (Wilson _et al._ 2018). When large tightly packed schools are encountered, fish that cannot be measured should have 3D points. When lengths or 3D points are not possible for every fish, multiple individuals can be assigned to a single length or 3D point, but care should be taken to represent the range of body sizes within a school.
 
 
-## Supp 5. Recommended stereo-measurement length rules for EventMeasure.
+## *Supp 5. Recommended stereo-measurement length rules for EventMeasure.*
 
 <table>
   <tr>
@@ -254,8 +254,8 @@ R workflows and function packages are provided in a GitHub repository (Langlois 
 
 We encourage open data policies and recommend archiving and sharing stereo-BRUV annotations on global biodiversity data repositories, such as OBIS (Ocean Biogeographic Information System), GBIF (Global Biodiversity Information Facility) and the recently developed GlobalArchive ([globalarchive.org](about:blank)). GlobalArchive is a centralised repository that allows open access and private sharing of fish image annotation data from stereo-BRUVs or similar imagery-based sampling techniques. GlobalArchive allows users to store data in a standardised and secure manner and makes meta-data discoverable, thus encouraging collaboration and synthesis of datasets within the community of practice. We recommend all quality controlled annotation data and any associated calibration, taxa and habitat data should be uploaded to GlobalArchive and we encourage that all data should be made publicly available via the public data option. As an example, the Australian standards for data management, discoverability and release are provided in [Supp. 6](https://benthic-bruvs-field-manual.github.io/image-annotations#supp-6-australian-standards-for-data-management-release-and-discoverability-of-stereo-bruv-data).
 
-## Supp 6: Australian standards for data management, release, and discoverability of stereo-BRUV data
-## **Quality control and data curation**
+## *Supp 6: Australian standards for data management, release, and discoverability of stereo-BRUV data*
+## Quality control and data curation
 
 Quality control and data curation are vital, but are potentially time consuming. These time considerations (and associated costs) should be considered during the survey planning stages.
 
@@ -273,7 +273,7 @@ It cannot be stressed enough that any corrections should be made to the annotati
 A national stereo-BRUV steering group has been set up to oversee a nationally coordinated BRUV monitoring program (Supp. 7). Any new stereo-BRUV deployments should be discussed with this steering group to ensure that, where possible, they can be integrated within the national program.
 
 
-## **Data release**
+## Data release
 
 GlobalArchive (www.globalarchive.org) is a centralised repository for stereo- and single-camera image annotation of mobile fauna, in particular from Baited Remote Underwater stereo-Video (stereo-BRUVs) and Diver Operated stereo-Video (stereo-DOVs). A user manual for GlobalArchive is available in an open-access[ GitHub repository](https://globalarchivemanual.github.io/). Metadata should be made publicly available via[ GlobalArchive](http://globalarchive.org/) as soon as possible after survey completion and data QA/QC and validation. This should include positional data, as well as the purpose of the sampling campaign, the survey design, all sampling locations, equipment specifications, and any challenges or limitations encountered. Annotations can also be uploaded once complete. Spatial metadata from GlobalArchive data will in the future be harvested by the Australian Ocean Data Network, and the metadata will accordingly be available on their national portal. Until this is done, metadata should be published on both GlobalArchive and AODN to ensure data discoverability.
 
@@ -282,7 +282,7 @@ There is currently no national repository for BRUV imagery so we recommend follo
 If desired by the researcher or requested by the funding agency all quality controlled annotation data and any associated calibration, taxa and habitat data should be uploaded to GlobalArchive ([www.globalarchive.org](http://www.globalarchive.org)) and made publicly available via the public data option.
 
 
-## **Data discoverability**
+## Data discoverability
 
 Following the steps listed below will ensure the timely release of video and associated annotation data in a standardised, highly discoverable format.
 
@@ -303,7 +303,7 @@ Lodging metadata with AODN in advance of annotation data being available is an i
 4. Add links to GlobalArchive campaign and raw video storage location to previously published metadata record. You may also wish to attach or link a copy of the annotation data directly to the published metadata record.
 5. Produce a technical or post-survey report documenting the purpose of the survey, sampling design, sampling locations, sampling equipment specifications, annotation schema, and any challenges or limitations encountered. Provide links to this report in all associated metadata.
 
-## Supp. 7: Australian National BRUV working group, as of May 2020.
+## *Supp. 7: Australian National BRUV working group, as of May 2020.*
 
 <table>
   <tr>
