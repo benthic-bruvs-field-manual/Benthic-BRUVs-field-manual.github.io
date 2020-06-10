@@ -39,7 +39,7 @@ As a general rule, locally sourced, sardine-type oily bait is recommended (Dorma
 Benthic stereo-BRUVs should be deployed for a standard duration. We recommend deployments of 60 min, to allow species detection (Currey-Randall _et al._ 2020), and facilitate comparison with historical data. Deployments of 30 minutes have been demonstrated to be sufficient for sampling particular species of finfish on shallow temperate reefs (Bernard & Götz 2012; Harasti _et al._ 2015). 
 
 
-# Stereo-BRUV design variations
+## Stereo-BRUV Design Variations
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
