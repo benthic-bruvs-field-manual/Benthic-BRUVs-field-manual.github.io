@@ -10,7 +10,7 @@ image:
 
 ## Field logistics
 
-Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for deploying and retrieving stereo-BRUVs in deeper waters (Fig 2), however, light-weight stereo-BRUVs ([Supp. 2](https://benthic-bruvs-field-manual.github.io/field-logistics#supp.-2-stereo-bruv-design-variations)) can be retrieved by hand. Comparable trap fishing retrieval methods are generally the most efficient. Each retrieval design remains dependent on the type of vessel used, stereo-BRUV weight and size, and prevailing sea conditions. Local fishers familiar with a study location can provide valuable advice on sampling logistics. Multiple stereo-BRUVs can be deployed concurrently, with ~10 stereo-BRUV systems providing optimum logistical efficiency for 60 minute deployment times. Crepuscular periods should be avoided due to demonstrated changes in fish behaviour during these times (Myers _et al._ 2016; Bond _et al._ 2018a). When sampling in low light conditions, both blue (450-465 nm) and white (550–560 nm) lights can be used. White can provide the best imagery for identification (Birt _et al._ 2019), but blue has been found to avoid potential behavioural biases and reduce backscatter from plankton at night (Fitzpatrick, McLean & Harvey 2013). Field methodology checklists are provided in [Supp. 3](https://benthic-bruvs-field-manual.github.io/field-logistics#field-methodology-checklists).
+Vessels fitted with a swinging davit arm, or pot-tipper and winch are ideal for deploying and retrieving stereo-BRUVs in deeper waters (Fig 2), however, light-weight stereo-BRUVs ([Supp. 2](https://benthic-bruvs-field-manual.github.io/field-logistics#supp-2-stereo-bruv-design-variations)) can be retrieved by hand. Comparable trap fishing retrieval methods are generally the most efficient. Each retrieval design remains dependent on the type of vessel used, stereo-BRUV weight and size, and prevailing sea conditions. Local fishers familiar with a study location can provide valuable advice on sampling logistics. Multiple stereo-BRUVs can be deployed concurrently, with ~10 stereo-BRUV systems providing optimum logistical efficiency for 60 minute deployment times. Crepuscular periods should be avoided due to demonstrated changes in fish behaviour during these times (Myers _et al._ 2016; Bond _et al._ 2018a). When sampling in low light conditions, both blue (450-465 nm) and white (550–560 nm) lights can be used. White can provide the best imagery for identification (Birt _et al._ 2019), but blue has been found to avoid potential behavioural biases and reduce backscatter from plankton at night (Fitzpatrick, McLean & Harvey 2013). Field methodology checklists are provided in [Supp. 3](https://benthic-bruvs-field-manual.github.io/field-logistics#supp-3-field-methodology-checklists).
 
 
 ![alt_text](images/figures/Fig2.png "image_tooltip")
@@ -45,7 +45,7 @@ Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessel
 4. Ensure sufficient data storage capacity for downloading all video imagery collected, and for back-up copies.
 5. Ensure sufficient spares for stereo-BRUVs (Figure 1).
 6. Purchase bait and ensure it can be stored appropriately for the duration of fieldwork. 
-7. Create a metadata sheet or preferably using a capture device (e.g. Collector for ArcGIS or QGIS, tablet computer with GIS) to record the sample, stereo-camera pair and memory card unique identifier in addition to other essential field data (Supp. 4). By capturing metadata digitally transcription errors and post-field work time are reduced.
+7. Create a metadata sheet or preferably using a capture device (e.g. Collector for ArcGIS or QGIS, tablet computer with GIS) to record the sample, stereo-camera pair and memory card unique identifier in addition to other essential field data ([Supp. 4](https://benthic-bruvs-field-manual.github.io/files/Supp. 4_ Example-Field-and-Labsheet.xlsx)). By capturing metadata digitally transcription errors and post-field work time are reduced.
 
 
 ## Pre-deployment
@@ -72,7 +72,7 @@ See this video example of [deploying light weight stereo-BRUV](https://youtu.be/
 8. Once on site, and at the command of the master, experienced personnel or deck hands should physically deploy stereo-BRUV, ropes, and floats clear of the vessel. Ropes and floats may need to be streamed in advance if operating in deepwater.
 9. It is important the vessel remains directly over the site whilst deploying. In shallow water, it may be necessary to arrest the deployment of the stereo-BRUV above the bottom to ensure it maintains orientation. In water depths >30 m and when using ballast, rope drag through the water is often enough to maintain orientation and the system can be left to freefall from the surface.
 10. When the stereo-BRUV lands on the seafloor a waypoint should be taken.
-11. Ensure all field metadata and comments are collected (as in Supp 4).
+11. Ensure all field metadata and comments are collected (as in [Supp. 4](https://benthic-bruvs-field-manual.github.io/files/Supp. 4_ Example-Field-and-Labsheet.xlsx)).
 
 
 ## Retrieval 
@@ -81,7 +81,7 @@ See this video example of [deploying light weight stereo-BRUV](https://youtu.be/
 2. Crew gaff or grapple the rope between the floats and retrieve slack rope as the vessel manoeuvres over the system. 
 3. Stereo-BRUVs should only be retrieved once the vessel is directly above the deployment site. Stereo-BRUVs retrieved at an angle are prone to being dragged and caught on the benthos. 
 4. Once the stereo-BRUV is on deck, dry the housings and remove cameras and their memory cards and change bait. Check battery life is sufficient for another deployment and turn the cameras off to preserve battery life. 
-5. Ensure all field metadata and comments are collected (as in Supp 4).
+5. Ensure all field metadata and comments are collected (as in [Supp. 4](https://benthic-bruvs-field-manual.github.io/files/Supp. 4_ Example-Field-and-Labsheet.xlsx)).
 
 
 ## End of day checks
