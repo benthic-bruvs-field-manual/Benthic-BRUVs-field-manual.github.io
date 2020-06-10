@@ -61,6 +61,8 @@ Figure 2: Methods to safely deploy and retrieve BRUVs from different size vessel
 
 See this video example of [deploying light weight stereo-BRUV](https://youtu.be/xMrsWunUf3k)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xMrsWunUf3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 1. Fill bait containers with ~1 kg of crushed bait.
 2. Turn cameras on and ensure there is sufficient battery life and storage space.
