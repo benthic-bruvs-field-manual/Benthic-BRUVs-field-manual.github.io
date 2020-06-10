@@ -1,25 +1,25 @@
 # Site navigation links
 - title: "Download Field Manual"
   url: https://benthic-bruvs-field-manual.github.io/files/FieldManuals_NESPMarineHub_Chapter5_BRUV.pdf
-  excerpt: "Download chapter as a PDF"
+  excerpt: "Download Chapter as a PDF"
   image: /5x8/download_5x8.jpg
 - title: "Introduction"
   url: https://benthic-bruvs-field-manual.github.io/introduction
   excerpt: ""
   image: /5x8/00_5x8.jpg
-- title: "Stereo-BRUV design"
+- title: "Stereo-BRUV Design"
   url: https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design
   excerpt: "Cameras and photogrammetry, bait, deployment time and variations."
   image: /5x8/02_5x8.jpg
-- title: "Sampling design"
+- title: "Sampling Design"
   url: https://benthic-bruvs-field-manual.github.io/sampling-design
   excerpt: ""
   image: /5x8/03_5x8.jpg
-- title: "Field logistics"
+- title: "Field Logistics"
   url: https://benthic-bruvs-field-manual.github.io/field-logistics
   excerpt: "Field methodology checklist"
   image: /5x8/05_5x8.jpg
-- title: "Image annotations"
+- title: "Image Annotations"
   url: https://benthic-bruvs-field-manual.github.io/image-annotations
   excerpt: "Software, annotation metadata, abundance estimates, body-size measurements, behaviour, interopable and reproducible annotations, habitat classifcation, quality control and data curation, data storage, discoverability and release"
   image: /5x8/09_5x8.jpg
