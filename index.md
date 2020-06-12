@@ -88,7 +88,7 @@ Chapter citation:
 |       _[Pre-deployment](https://benthic-bruvs-field-manual.github.io/field-logistics#pre-deployment)_                                              |
 |       _[Deployment](https://benthic-bruvs-field-manual.github.io/field-logistics#deployment)_                                                      |
 |       _[Retrieval](https://benthic-bruvs-field-manual.github.io/field-logistics#retrieval)_                                                        |
-|       _[End of day checks](https://benthic-bruvs-field-manual.github.io/field-logistics#end-of-day-checks)_                                        |           
+|       _[End of Day Checks](https://benthic-bruvs-field-manual.github.io/field-logistics#end-of-day-checks)_                                        |           
 |  **[Image Annotations](https://benthic-bruvs-field-manual.github.io/image-annotations)**                                                           |
 |       _[Software](https://benthic-bruvs-field-manual.github.io/image-annotations#software)_                                                        |
 |       _[Annotation Metadata](https://benthic-bruvs-field-manual.github.io/image-annotations#annotation-metadata)_                                  |
