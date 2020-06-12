@@ -279,7 +279,25 @@ GlobalArchive (www.globalarchive.org) is a centralised repository for stereo- an
 
 There is currently no national repository for BRUV imagery so we recommend following agency-specific protocols to ensure public release. A national marine imagery repository (including for BRUV imagery) will be scoped in 2020 and updates provided in this field manual.
 
-If desired by the researcher or requested by the funding agency all quality controlled annotation data and any associated calibration, taxa and habitat data should be uploaded to GlobalArchive ([www.globalarchive.org](http://www.globalarchive.org)) and made publicly available via the public data option.
+If desired by the researcher or requested by the funding agency all quality controlled annotation data and any associated calibration, taxa and habitat data should be uploaded to GlobalArchive ([www.globalarchive.org](www.globalarchive.org)) and made publicly available via the public data option. Other funding agency requirements may apply.
+
+ 
+
+Immediate post-trip reporting should be completed by creating metadata records. This can be done far in advance of annotation (scoring) of raw video which is time-consuming and often does not occur for some time following completion of sampling. 
+
+ 
+
+ISO 19115 records should be generated at both the Project¹ and Campaign(s)¹ level. For Project records, the ScopeCode element should be set to “fieldSession”.  Accompanying Campaign metadata record(s) should use the ScopeCode element “dataset” and be linked to the Project record by adding the Project record identifier (the UUID) into the parentIdentifier element of the Campaign record. An example of a Project record with linked Data records (equivalent to Campaign records) in AODN is [here](https://catalogue.aodn.org.au/geonetwork/srv/eng/main.home?uuid=6fc86902-d98d-4ae4-b7f2-00e5b831bb88). This approach improves discoverability, provides context to datasets, and aligns with the schema used by services like [Research Data Australia](https://researchdata.ands.org.au/nesp-mb-project-continental-shelf/686654/).
+
+ 
+
+The Project metadata record should document the project name, purpose, description, location, dates/times, and relevant contacts. The Campaign metadata record(s) should document the purpose of the BRUV sampling campaign, the survey design, all sampling locations, equipment specifications, and any challenges or limitations encountered.  
+
+ 
+
+¹ See Global Archive definitions [here](https://globalarchivemanual.github.io/definitions).
+
+
 
 
 ## Data discoverability
