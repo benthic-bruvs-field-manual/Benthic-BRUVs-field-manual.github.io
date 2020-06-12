@@ -1,6 +1,6 @@
 ---
 permalink: /sampling-design
-title: "Sampling design"
+title: "Sampling Design"
 excerpt: "<br>"
 image:
   feature: /banners/04_banner.jpg

@@ -73,27 +73,38 @@ Chapter citation:
 4. Globally, the use of stereo-BRUVs is spreading rapidly. We provide a standardised protocol that will reduce methodological variation among researchers and encourage the use of Findable, Accessible, Interoperable, and Reproducible (FAIR) workflows to increase the ability to synthesise global datasets and answer a broad suite of ecological questions.
 
 
-| Chapter Contents                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------------------|
-|  **[Platform Description](https://benthic-bruvs-field-manual.github.io/platform-description)**                               | 
-|  **[Scope](https://benthic-bruvs-field-manual.github.io/scope)**                                                             |   
-|  **[Stereo-BRUVs in Marine Monitoring](https://benthic-bruvs-field-manual.github.io/stereo-bruvs-in-marine-monitoring)**     |
-|  **[Equipment](https://benthic-bruvs-field-manual.github.io/equipment)**                                                     |
-|  **[Pre-Survey Preparations](https://benthic-bruvs-field-manual.github.io/pre-survey-preparations)**                         |
-|       _[Calibrating stereo-BRUVs](https://benthic-bruvs-field-manual.github.io/pre-survey-preparations#calibrating-stereo-bruvs)_ |
-|       _[Pre-survey checklist](https://benthic-bruvs-field-manual.github.io/pre-survey-preparations#pre-survey-checklist)_    |
-|  **[Field Procedures](https://benthic-bruvs-field-manual.github.io/field-procedures)**                                       |   
-|       _[Arrival on site](https://benthic-bruvs-field-manual.github.io/field-procedures#arrival-on-site)_                     |
-|       _[Deployment](https://benthic-bruvs-field-manual.github.io/field-procedures#deployment)_                               |
-|       _[Retrieval](https://benthic-bruvs-field-manual.github.io/field-procedures#retrieval)_                                 |
-|       _[Retrieval of snagged or lost BRUV](https://benthic-bruvs-field-manual.github.io/field-procedures#retrieval-of-snagged-or-lost-bruv)_                        |
-|       _[Fieldwork data management](https://benthic-bruvs-field-manual.github.io/field-procedures#fieldwork-data-management)_ |
-|  **[Post-Survey Procedures](https://benthic-bruvs-field-manual.github.io/post-survey-procedures)**                           | 
-|       _[Data management](https://benthic-bruvs-field-manual.github.io/field-procedures#data-management)_                     |
-|       _[Processing video footage](https://benthic-bruvs-field-manual.github.io/field-procedures#processing-video-footage)_   |
-|       _[Quality control and data curation](https://benthic-bruvs-field-manual.github.io/field-procedures#quality-control-and-data-curation)_                    |
-|       _[Data release](https://benthic-bruvs-field-manual.github.io/field-procedures#data-release)_                           |      
-|  **[Field Manual Maintenance](https://benthic-bruvs-field-manual.github.io/field-manual-maintenance)**                       |  
-|  **[References](https://benthic-bruvs-field-manual.github.io/references)**                                                   |                  
+| Chapter Contents                                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|  **[Introduction](https://benthic-bruvs-field-manual.github.io/introduction)**                                                                     | 
+|  **[Stereo-BRUV Design](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design)**                                                         |
+|       _[Cameras and Photogrammetry](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design#cameras-and-photogrammetry)_                   |
+|       _[Bait](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design#bait)_                                                               |
+|       _[Deployment Time](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design#deployment-time)_                                         |
+|  **[Sampling Design](https://benthic-bruvs-field-manual.github.io/sampling-design)**                                                               |
+|  **[Field Logistics](https://benthic-bruvs-field-manual.github.io/field-logistics)**                                                               |   
+|       _[Supp 2: Stereo-BRUV Design Variations](https://benthic-bruvs-field-manual.github.io/field-logistics#supp-2-stereo-bruv-design-variations)_ |
+|       _[Supp 3: Field Methodology Checklists](https://benthic-bruvs-field-manual.github.io/field-logistics#supp-3-field-methodology-checklists)_   |
+|       _[Pre-field work](https://benthic-bruvs-field-manual.github.io/field-logistics#pre-field-work)_                                              |
+|       _[Pre-deployment](https://benthic-bruvs-field-manual.github.io/field-logistics#pre-deployment)_                                              |
+|       _[Deployment](https://benthic-bruvs-field-manual.github.io/field-logistics#deployment)_                                                      |
+|       _[Retrieval](https://benthic-bruvs-field-manual.github.io/field-logistics#retrieval)_                                                        |
+|       _[End of day checks](https://benthic-bruvs-field-manual.github.io/field-logistics#end-of-day-checks)_                                        |           
+|  **[Image Annotations](https://benthic-bruvs-field-manual.github.io/image-annotations)**                                                           |
+|       _[Software](https://benthic-bruvs-field-manual.github.io/image-annotations#software)_                                                        |
+|       _[Annotation Metadata](https://benthic-bruvs-field-manual.github.io/image-annotations#annotation-metadata)_                                  |
+|       _[Abundance Estimates](https://benthic-bruvs-field-manual.github.io/image-annotations#abundance-estimates)_                                  |
+|       _[Body-size Measurements](https://benthic-bruvs-field-manual.github.io/image-annotations#body-size-measurements)_                            |
+|       _[Supp 5. Recommended stereo-measurement Length Rules for EventMeasure](https://benthic-bruvs-field-manual.github.io/image-annotations#supp-5-recommended-stereo-measurement-length-rules-for-eventmeasure)_ |
+|       _[Behaviour](https://benthic-bruvs-field-manual.github.io/image-annotations#behaviour)_                                                      |
+|       _[Interoperable and Reproducible Annotations](https://benthic-bruvs-field-manual.github.io/image-annotations#interoperable-and-reproducible-annotations)_ |
+|       _[Habitat Classification](https://benthic-bruvs-field-manual.github.io/image-annotations#habitat-classification)_                            |
+|       _[Quality Control and Data Curation](https://benthic-bruvs-field-manual.github.io/image-annotations#quality-control-and-data-curation)_      |
+|       _[Data Storage, Discoverability and Release](https://benthic-bruvs-field-manual.github.io/image-annotations#data-storage-discoverability-and-release)_ |
+|       _[Supp 6: Australian Standards for Data Management, Release, and Discoverability of stereo-BRUV data](https://benthic-bruvs-field-manual.github.io/image-annotations#supp-6-australian-standards-for-data-management-release-and-discoverability-of-stereo-bruv-data)_ |
+|       _[Supp. 7: Australian National BRUV working group, as of May 2020.](https://benthic-bruvs-field-manual.github.io/image-annotations#supp-7-australian-national-bruv-working-group-as-of-may-2020)_ |
+|  **[Conclusion](https://benthic-bruvs-field-manual.github.io/conclusion)**                                                                         |
+|  **[Acknowledgments](https://benthic-bruvs-field-manual.github.io/acknowledgments)**                                                               |
+|  **[Field Manual Maintenance](https://benthic-bruvs-field-manual.github.io/field-manual-maintenance)**                                             |  
+|  **[References](https://benthic-bruvs-field-manual.github.io/references)**                                                                         |                  
 
 <a href="#" class="scrollUpButton">Top</a>
