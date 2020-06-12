@@ -94,7 +94,7 @@ Chapter citation:
 |       _[Annotation Metadata](https://benthic-bruvs-field-manual.github.io/image-annotations#annotation-metadata)_                                  |
 |       _[Abundance Estimates](https://benthic-bruvs-field-manual.github.io/image-annotations#abundance-estimates)_                                  |
 |       _[Body-size Measurements](https://benthic-bruvs-field-manual.github.io/image-annotations#body-size-measurements)_                            |
-|       _[Supp 5. Recommended stereo-measurement Length Rules for EventMeasure](https://benthic-bruvs-field-manual.github.io/image-annotations#supp-5-recommended-stereo-measurement-length-rules-for-eventmeasure)_ |
+|       _[Supp 5: Recommended stereo-measurement Length Rules for EventMeasure](https://benthic-bruvs-field-manual.github.io/image-annotations#supp-5-recommended-stereo-measurement-length-rules-for-eventmeasure)_ |
 |       _[Behaviour](https://benthic-bruvs-field-manual.github.io/image-annotations#behaviour)_                                                      |
 |       _[Interoperable and Reproducible Annotations](https://benthic-bruvs-field-manual.github.io/image-annotations#interoperable-and-reproducible-annotations)_ |
 |       _[Habitat Classification](https://benthic-bruvs-field-manual.github.io/image-annotations#habitat-classification)_                            |
