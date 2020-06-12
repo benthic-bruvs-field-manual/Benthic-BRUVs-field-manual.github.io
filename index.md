@@ -84,7 +84,7 @@ Chapter citation:
 |  **[Field Logistics](https://benthic-bruvs-field-manual.github.io/field-logistics)**                                                               |   
 |       _[Supp 2: Stereo-BRUV Design Variations](https://benthic-bruvs-field-manual.github.io/field-logistics#supp-2-stereo-bruv-design-variations)_ |
 |       _[Supp 3: Field Methodology Checklists](https://benthic-bruvs-field-manual.github.io/field-logistics#supp-3-field-methodology-checklists)_   |
-|       _[Pre-field work](https://benthic-bruvs-field-manual.github.io/field-logistics#pre-field-work)_                                              |
+|       _[Pre-field Work](https://benthic-bruvs-field-manual.github.io/field-logistics#pre-field-work)_                                              |
 |       _[Pre-deployment](https://benthic-bruvs-field-manual.github.io/field-logistics#pre-deployment)_                                              |
 |       _[Deployment](https://benthic-bruvs-field-manual.github.io/field-logistics#deployment)_                                                      |
 |       _[Retrieval](https://benthic-bruvs-field-manual.github.io/field-logistics#retrieval)_                                                        |
