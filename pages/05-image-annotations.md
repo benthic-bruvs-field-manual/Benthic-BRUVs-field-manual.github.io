@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /image-annotations
-title: "Image annotations"
+title: "Image Annotations"
 excerpt: "<br>"
 image:
   feature: /banners/04_banner.jpg

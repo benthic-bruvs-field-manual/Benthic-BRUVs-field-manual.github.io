@@ -1,6 +1,6 @@
 ---
 permalink: /stereo-BRUV-design
-title: "Stereo-BRUV design"
+title: "Stereo-BRUV Design"
 excerpt: "<br>"
 image:
   feature: /banners/04_banner.jpg
