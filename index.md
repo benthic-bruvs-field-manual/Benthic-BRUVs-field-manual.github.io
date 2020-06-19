@@ -11,8 +11,7 @@ page.button1.external_url:
 
 Tim Langlois, [Jordan Goetze](mailto:jordan.goetze@dbca.wa.gov.au), Todd Bond, Jacquomo Monk, Rene A. Abesamis, Jacob Asher, Neville Barrett, Anthony T. F. Bernard, Phil J. Bouchet, Matthew J. Birt, Mike Cappo, Leanne M. Currey-Randall,Damon Driessen, David V. Fairclough, Laura A.F. Fullwood, Brooke A. Gibbons, David Harasti, Michelle R Heupel, Jamie Hicks, Thomas H. Holmes, Charlie Huveneers, Daniel Ierodiaconou, Alan Jordan, Nathan A. Knott, Hamish A. Malcolm, Dianne McLean, Mark Meekan, David Miller, Peter J. Mitchell, Stephen J. Newman, Ben Radford, Fernanda A. Rolim, Benjamin J. Saunders, Marcus Stowar, Adam N. H. Smith, Michael J. Travers, Corey B. Wakefield, Sasha K. Whitmarsh, Joel Williams & Euan S. Harvey
 
-![image alt text](/images/fornt.png)
-<img src="/images/fornt.png" width="100%"/>
+<img src="/images/banners/09_5x8.jpg" width="100%"/>
 
 Chapter citation: TBC
 
