@@ -25,7 +25,7 @@ page.button1.external_url:
 |  **[Sampling Design](https://benthic-bruvs-field-manual.github.io/sampling-design)**                                                               |
 |  **[Field Logistics](https://benthic-bruvs-field-manual.github.io/field-logistics)**                                                               |   
 |       _[Supp 2: Stereo-BRUV design variations](https://benthic-bruvs-field-manual.github.io/field-logistics#supp-2-stereo-bruv-design-variations)_ |
-|       _[Supp 3: Field Methodology Checklists](https://benthic-bruvs-field-manual.github.io/field-logistics#supp-3-field-methodology-checklists)_   |
+|       _[Supp 3: Field methodology checklists](https://benthic-bruvs-field-manual.github.io/field-logistics#supp-3-field-methodology-checklists)_   |
 |       _[Pre-field work](https://benthic-bruvs-field-manual.github.io/field-logistics#pre-field-work)_                                              |
 |       _[Pre-deployment](https://benthic-bruvs-field-manual.github.io/field-logistics#pre-deployment)_                                              |
 |       _[Deployment](https://benthic-bruvs-field-manual.github.io/field-logistics#deployment)_                                                      |
