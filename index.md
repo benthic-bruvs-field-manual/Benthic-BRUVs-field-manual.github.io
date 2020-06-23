@@ -44,7 +44,7 @@ page.button1.external_url:
 |       _[Supp 6: Australian standards for data management, release, and discoverability of stereo-BRUV data](https://benthic-bruvs-field-manual.github.io/image-annotations#supp-6-australian-standards-for-data-management-release-and-discoverability-of-stereo-bruv-data)_ |
 |       _[Supp. 7: Australian national BRUV working group, as of May 2020.](https://benthic-bruvs-field-manual.github.io/image-annotations#supp-7-australian-national-bruv-working-group-as-of-may-2020)_ |
 |  **[Conclusion](https://benthic-bruvs-field-manual.github.io/conclusion)**                                                                         |
-|  **[Acknowledgments](https://benthic-bruvs-field-manual.github.io/acknowledgments)**                                                               |
+|  **[Acknowledgements](https://benthic-bruvs-field-manual.github.io/acknowledgements)**                                                               |
 |  **[Field Manual Maintenance](https://benthic-bruvs-field-manual.github.io/field-manual-maintenance)**                                             |  
 |  **[References](https://benthic-bruvs-field-manual.github.io/references)**                                                                         |                  
 
