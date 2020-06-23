@@ -48,4 +48,4 @@ page.button1.external_url:
 |  **[Field Manual Maintenance](https://benthic-bruvs-field-manual.github.io/field-manual-maintenance)**                                             |  
 |  **[References](https://benthic-bruvs-field-manual.github.io/references)**                                                                         |                  
 
-<a href="#" class="scrollUpButton">Top</a>
+<a href="#" class="scrollUpButton">Back to top</a>
