@@ -1,7 +1,7 @@
 ---
 layout: main
 permalink: /
-title: "A field and video-annotation guide for baited remote underwater stereo-video surveys of demersal fish assemblages"
+title: "A Field and Video-annotation Guide for Baited Remote Underwater Stereo-video Surveys of Demersal Fish Assemblages"
 image:
   feature: /banners/04_banner.jpg
 page.button1.external_url:
