@@ -1,6 +1,6 @@
 ---
 permalink: /stereo-BRUV-design
-title: "Stereo-BRUV Design"
+title: "Platform Description"
 excerpt: "<br>"
 image:
   feature: /banners/04_banner.jpg
