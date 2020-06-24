@@ -16,8 +16,8 @@ page.button1.external_url:
 
 | Chapter Contents                                                                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
-|  **[Introduction](https://benthic-bruvs-field-manual.github.io/introduction)**                                                                     | 
-|  **[Stereo-BRUV Design](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design)**                                                         |
+|  **[Scope](https://benthic-bruvs-field-manual.github.io/introduction)**                                                                     | 
+|  **[Platform Description](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design)**                                                         |
 |       _[Cameras and photogrammetry](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design#cameras-and-photogrammetry)_                   |
 |       _[Bait](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design#bait)_                                                               |
 |       _[Deployment time](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design#deployment-time)_                                         |
@@ -43,7 +43,7 @@ page.button1.external_url:
 |       _[Data storage, discoverability and release](https://benthic-bruvs-field-manual.github.io/image-annotations#data-storage-discoverability-and-release)_ |
 |       _[Supp 6: Australian standards for data management, release, and discoverability of stereo-BRUV data](https://benthic-bruvs-field-manual.github.io/image-annotations#supp-6-australian-standards-for-data-management-release-and-discoverability-of-stereo-bruv-data)_ |
 |       _[Supp. 7: Australian national BRUV working group, as of May 2020.](https://benthic-bruvs-field-manual.github.io/image-annotations#supp-7-australian-national-bruv-working-group-as-of-may-2020)_ |
-|  **[Conclusion](https://benthic-bruvs-field-manual.github.io/conclusion)**                                                                         |
+
 |  **[Acknowledgements](https://benthic-bruvs-field-manual.github.io/acknowledgements)**                                                               |
 |  **[Field Manual Maintenance](https://benthic-bruvs-field-manual.github.io/field-manual-maintenance)**                                             |  
 |  **[References](https://benthic-bruvs-field-manual.github.io/references)**                                                                         |                  
