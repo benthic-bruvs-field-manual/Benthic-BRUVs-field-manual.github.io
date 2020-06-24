@@ -3,14 +3,14 @@
   url: https://benthic-bruvs-field-manual.github.io/files/FieldManuals_NESPMarineHub_Chapter5_BRUV.pdf
   excerpt: ""
   image: /5x8/download_5x8.jpg
-- title: "Scope"
-  url: https://benthic-bruvs-field-manual.github.io/introduction
-  excerpt: ""
-  image: /5x8/00_5x8.jpg
 - title: "Platform Description"
   url: https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design
   excerpt: ""
   image: /5x8/02_5x8.jpg
+- title: "Scope"
+  url: https://benthic-bruvs-field-manual.github.io/introduction
+  excerpt: ""
+  image: /5x8/00_5x8.jpg
 - title: "Sampling Design"
   url: https://benthic-bruvs-field-manual.github.io/sampling-design
   excerpt: ""

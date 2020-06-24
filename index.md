@@ -16,8 +16,9 @@ page.button1.external_url:
 
 | Chapter Contents                                                                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
-|  **[Scope](https://benthic-bruvs-field-manual.github.io/introduction)**                                                                     | 
 |  **[Platform Description](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design)**                                                         |
+|  **[Scope](https://benthic-bruvs-field-manual.github.io/introduction)**                                                                     | 
+
 |       _[Cameras and photogrammetry](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design#cameras-and-photogrammetry)_                   |
 |       _[Bait](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design#bait)_                                                               |
 |       _[Deployment time](https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design#deployment-time)_                                         |
