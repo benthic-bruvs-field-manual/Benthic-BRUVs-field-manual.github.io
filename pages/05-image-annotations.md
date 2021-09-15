@@ -418,3 +418,77 @@ Lodging metadata with AODN in advance of annotation data being available is an i
 <p>
 * Chair
 </p>
+
+## *Supp. 8: Habitat annotation of stereo-BRUV imagery*
+
+We have developed a simple approach to characterise the composition and complexity of habitats from stereo-BRUV imagery, adapting existing standardised schema for benthic composition [(CATAMI classification scheme)](http://catami.github.io/catami-docs/CATAMI%20class_PDFGuide_V4_20141218.pdf) and benthic complexity, with the addition of a class to quantify the percent cover of benthos versus open water within the horizontally facing image.
+
+The annotation approach is rapid and produces percent composition and mean and standard deviation estimates of complexity, which enable flexible modelling of habitat occurrence and fish-habitat relationships.
+
+
+### **Methods**
+
+To simplify the annotation process and still represent multiple scales of habitat in stereo-BRUV imagery, a 5 x 4 grid is overlaid on a high definition image (Supp 8 Figure 1). Each of the 20 ‘rectangle’s are annotated for dominant _Benthic Composition_, _FieldOfView_ and _Relief_. See this [github repository](https://github.com/GlobalArchiveManual/forward-facing-habitat-annotation/blob/master/BRUV_HabitatAnnotation_Examples.pdf) for examples of annotations.
+
+![alt_text](images/supp8fig1.jpg)
+ **Supp 8 Figure 1:** Screen capture from TransectMeasure (seagis.com.au)
+
+#### Benthic Composition
+
+The annotation schema is made up of nested _Benthic Composition_ classes taken from the CATAMI schema (“BROAD” > “MORPHOLOGY” > “TYPE”, e.g. “Macroalgae” > “Erect coarse branching” > “Brown” ).
+
+For detailed information on the particular taxonomic levels within the “BROAD” > “MORPHOLOGY” > “TYPE” classifications provided in this annotation schema, please consult the [CATAMI visual guide](http://catami.github.io/catami-docs/CATAMI%20class_PDFGuide_V4_20141218.pdf).
+
+To the “BROAD” class, we have added additional levels of "Open water" (to calculate the percentage of benthos within each image) and "Unknown" (to account for the frequent issues of limited visibility typical for forward facing imagery).
+
+NOTE: Any ‘rectangle’ that has some form of habitat visible should be classified for _Benthic Composition_ (even if open water makes up the majority of the grid).
+
+
+#### Field of View
+
+The _FieldOfView_ class assesses how the BRUV is positioned when it lands on the substrate.
+
+Definition of _FieldOfView_ options:
+
+* Facing Down: No open water visible and the system is facing the benthos. This deployment would most likely be removed from analysis due to atypical field of view.
+* Facing Up: No substrate visible and the system is facing towards the surface. This deployment would most likely be removed from analysis due to atypical field of view.
+* Limited: BRUV landed on its side, upside down or the field of view is badly obstructed by benthos or substrate within ~1m of the camera that would limit the number of individuals observed. This deployment may be removed from analysis due to atypical field of view.
+* Open: BRUV landed upright and level on the substrate and there is an adequate amount of habitat available for classification.
+
+
+#### Relief
+
+The _Relief _class uses a 0-5 quantification of relief and includes an "Unknown" level to account for ‘rectangle’s with limited visibility. _Relief _class is representative of complexity or the height and angle of substrate. 
+
+When the _Benthic Composition_ is “Open Water”, _Relief _should be classified as “Unknown”.
+
+Distinct categories have been adapted from Wilson et al. (2006):
+
+**0.** Flat substrate, sandy, rubble with few features. ~0 substrate slope.
+**1.** Some relief features amongst mostly flat substrate/sand/rubble. &lt;45 degree substrate slope.
+**2.** Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.
+**3.** Good relief structure with some overhangs. >45 substrate slope.
+**4.** High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope.
+**5.** Exceptional structural complexity, numerous large holes and caves. Vertical wall. ~90 substrate slope.
+
+NOTE: Any ‘rectangle’ that has some form of habitat visible should be classified for _Relief _(even if open water makes up the majority of the grid).
+
+### Recommended approaches
+
+For standard (rapid) assessment of _Benthic Composition_, _FieldOfView_ and _Relief _we recommend using ONLY the: “BROAD” classification within the _Benthic Composition_ and _FieldOfView_ and _Relief_. An experienced analyst would be able to annotate this schema to over 200 images a day.
+
+**OR**
+
+For detailed assessment of _Benthic Composition_ (where coral bleaching or macroalgae composition was of interest), _FieldOfView_ and _Relief_ we recommend using all the classes in _Benthic Composition_ (“BROAD” > “MORPHOLOGY” > “TYPE” and _FieldOfView_ and _Relief_. An experienced analyst would be able to annotate this schema to over 120 images a day.
+
+Forward facing imagery can be annotated in a range of software, including TransectMeasure from SeaGIS ([seagis.com.au](https://www.seagis.com.au/)), ReefCloud ([reefcloud.ai](reefcloud.ai)), CoralNet ([coralnet.ucsd.edu](https://coralnet.ucsd.edu/)), and Squidle+ ([squidle.org](https://squidle.org/)). See this github repository for an example of how to annotate imagery using TransectMeasure ([github.com/GlobalArchiveManual/forward-facing-habitat-annotation](https://github.com/GlobalArchiveManual/forward-facing-habitat-annotation)).
+
+### Annotation summary and quality control
+
+All corrections should be made within the original annotation files to ensure data consistency over time. We recommend the following approaches to ensure quality control:
+
+* Check that _FieldOfView_, _Relief_ and _Benthic Composition_ have been entered for every grid that contains habitat (see R script below).
+* Check that the image names match the metadata sample names (see R script below).
+* Check all successful deployments have habitat data (see R script below).
+
+See this github repository for an example R script to check and summarise annotations ([github.com/GlobalArchiveManual/forward-facing-habitat-annotation](https://github.com/GlobalArchiveManual/forward-facing-habitat-annotation)).
