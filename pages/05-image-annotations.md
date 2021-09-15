@@ -430,7 +430,7 @@ The annotation approach is rapid and produces percent composition and mean and s
 
 To simplify the annotation process and still represent multiple scales of habitat in stereo-BRUV imagery, a 5 x 4 grid is overlaid on a high definition image (Supp 8 Figure 1). Each of the 20 ‘rectangle’s are annotated for dominant _Benthic Composition_, _FieldOfView_ and _Relief_. See this [github repository](https://github.com/GlobalArchiveManual/forward-facing-habitat-annotation/blob/master/BRUV_HabitatAnnotation_Examples.pdf) for examples of annotations.
 
-![alt_text](images/supp8fig1.jpg)
+![alt_text](images/supp8fig1.jpg)<br>
  **Supp 8 Figure 1:** Screen capture from TransectMeasure (seagis.com.au)
 
 #### Benthic Composition
@@ -464,12 +464,12 @@ When the _Benthic Composition_ is “Open Water”, _Relief _should be classifie
 
 Distinct categories have been adapted from Wilson et al. (2006):
 
-**0.** Flat substrate, sandy, rubble with few features. ~0 substrate slope.
-**1.** Some relief features amongst mostly flat substrate/sand/rubble. &lt;45 degree substrate slope.
-**2.** Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.
-**3.** Good relief structure with some overhangs. >45 substrate slope.
-**4.** High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope.
-**5.** Exceptional structural complexity, numerous large holes and caves. Vertical wall. ~90 substrate slope.
+**0.** Flat substrate, sandy, rubble with few features. ~0 substrate slope.<br>
+**1.** Some relief features amongst mostly flat substrate/sand/rubble. &lt;45 degree substrate slope.<br>
+**2.** Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.<br>
+**3.** Good relief structure with some overhangs. >45 substrate slope.<br>
+**4.** High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope.<br>
+**5.** Exceptional structural complexity, numerous large holes and caves. Vertical wall. ~90 substrate slope.<br>
 
 NOTE: Any ‘rectangle’ that has some form of habitat visible should be classified for _Relief _(even if open water makes up the majority of the grid).
 
