@@ -451,40 +451,20 @@ This github repository contains:
     * Retake images if they are unfocused and blurry or when visibility is low.
     * For stereo-BRUV imagery, left images are annotated, and for panoramic drop camera imagery, top images are annotated.
 * To load the attribute file containing all of the CATAMI habitat classification codes: “Measurements” > “Load attribute file ...” > The attribute file is a text file containing the information necessary for populating the drop down tabs when classifying your image (Figure 4).
-
+* 
+![alt_text](images/figures/hab1.jpg "image_tooltip")
 
 #### Figure 1: TransectMeasure initial opening screen. 
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
-
+![alt_text](images/figures/hab2.jpg "image_tooltip")
 
 #### Figure 2: Creating a new measurement file in TransectMeasure.
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.jpg "image_tooltip")
-
-
+![alt_text](images/figures/hab3.jpg "image_tooltip")
 
 #### Figure 3: Setting the picture directory and loading the image in TransectMeasure.
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
+![alt_text](images/figures/hab4.png "image_tooltip")
 
 #### Figure 4: Loading the attribute file in TransectMeasure.
 
@@ -500,73 +480,33 @@ This github repository contains:
 
 NOTE: To annotate composite imagery, multiple areas of interest will need to be added corresponding to the images contained in the composite image, with points added to imagery after specifying areas of interest using “cntrl+ right click” > “Add dots” > “Add to the existing points” (Figure 9).
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
+![alt_text](images/figures/hab5.png "image_tooltip")
 
 #### Figure 5: Adding a new area of interest in TransectMeasure.
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
-
+![alt_text](images/figures/hab6.png "image_tooltip")
 
 #### Figure 6: Setting the dot configuration in TransectMeasure.
 
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
+![alt_text](images/figures/hab7.png "image_tooltip")
 
 #### Figure 7: Adding dots in TransectMeasure.
 
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
-
+![alt_text](images/figures/hab8.png "image_tooltip")
 
 #### Figure 8: Example of a stereo-BRUV image with random points added to the lower 50% of the image ready for annotation. 
 
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-
-
+![alt_text](images/figures/hab9.png "image_tooltip")
 
 #### Figure 9: Example of a fully annotated panoramic drop camera composite image. The red box in the bottom right image denotes the custom area of interest used to overlay the annotation points in TransectMeasure.
 
-
 ### 
 3. Classifying the benthic composition in an image
-
-
 
 * Left click on a point to display the “Attribute editor” (Figure 10)
 * Select the biota that lies directly underneath the point from the “BROAD” dropdown (includes benthos, un/consolidated substrate, open water and unknown). 
 
 Note: Zoom into an image to analyse the benthic composition more closely by adjusting the "Zoom" value at the top left of the window before holding down the ctrl key and hovering your cursor over the area that you would like to zoom to.
-
-
 
 * Continue to populate each dropdown (where possible) after “BROAD” (i.e. “MORPHOLOGY” > “TYPE” ). The “MORPHOLOGY” and “TYPE” drop down options will change depending on which “BROAD” option is chosen . Select “Clear” to reset the dropdowns for all of the categories (Figure 10).
 * The dropdown for “Code” is automatically filled by an eight digit code once all possible categories have been selected for that 'rectangle'. Codes are sourced from the CATAMI classification scheme and are dependent on the combination of the first three options selected (i.e. “BROAD”, “MORPHOLOGY” and “TYPE”).
@@ -577,14 +517,7 @@ Note: Zoom into an image to analyse the benthic composition more closely by adju
     * Open (Camera system has landed upright and level on the substrate with an adequate amount of benthos/substrate available for classification). 
 * Relief should not be annotated at this stage, with details on how to annotate relief outlined in the following section (_“4. Classifying the relief of an image”_).
 
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.jpg "image_tooltip")
-
-
+![alt_text](images/figures/hab10.jpg "image_tooltip")
 
 #### Figure 10: The ‘attribute editor’ window within TransectMeasure.
 
@@ -594,14 +527,10 @@ Note: Zoom into an image to analyse the benthic composition more closely by adju
 
 Annotation of relief will need to be annotated in a separate TransectMeasure file (.TMObs), which can be set up by following the same steps defined in ‘1. Load images and attribute file’. 
 
-
-
 * To set up the grid: “Measurements” > “Dot configuration ...”. Set accordingly: Grided dots, ‘Dots across image’ = 5, ’Dots down image’ = 4 and check the “Overlay rectangles” box (Figure 11). This will allow you to classify the relief according to 20 gridded points. You should only need to change these settings the first time you use the program on your computer.
 * To overlay the grid: Right click on an image and select “Overlay dots” (Figure 12). The name of the image will then appear in the table to the left of the image. 
 
 NOTE: For composite imagery that consists of multiple images, gridded dot configuration can be changed to reflect multiple images. For panoramic drop camera imagery containing four images, we overlay 10 dots across the image and 8 dots down the image (Figure 14). 
-
-
 
 * Left click on a point to display the “Attribute editor” (Figure 15)
 * Select the relevant field of view and relief score for the whole rectangle from the “FieldOfView” and “Relief” dropdowns. 
@@ -620,56 +549,23 @@ NOTE: For composite imagery that consists of multiple images, gridded dot config
 
 NOTE: Any ‘rectangle’ that has some form of benthos/substrate visible should be classified for _Relief _(even if open water makes up the majority of the grid).
 
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
-
-
+![alt_text](images/figures/hab11.png "image_tooltip")
 
 #### Figure 11: Setting the dot configuration in TransectMeasure.
 
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
-
-
+![alt_text](images/figures/hab12.png "image_tooltip")
 
 #### Figure 12: Adding dots to an image in TransectMeasure.
 
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
-
-
+![alt_text](images/figures/hab13.png "image_tooltip")
 
 #### Figure 13: Example of a stereo-BRUV image annotated for relief, showing measurements labels for field of view.
 
+![alt_text](images/figures/hab14.png "image_tooltip")
 
-#### 
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image13.png "image_tooltip")
 Figure 14: Example of a panoramic drop camera composite image annotated for relief, showing annotation labels for field of view.
 
-
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image14.jpg "image_tooltip")
-
-
+![alt_text](images/figures/hab15.jpg "image_tooltip")
 
 #### Figure 15: The ‘attribute editor’ window within TransectMeasure.
 
@@ -677,45 +573,21 @@ Figure 14: Example of a panoramic drop camera composite image annotated for reli
 ### 
 5. Saving and exporting from TransectMeasure
 
-
-
 * To save your work: “Measurements” > “Write to file ...” (Figure 16). This creates a *.TMObs file where your benthic classifications will be saved.
 * To export TMObs file: “Program” > “Batch text file output ...” (Figure 17)
 * The following box should appear: Double click to the right of the ✓ (under “Data”) in the “Input file directory” row, then locate the folder where your *.TMObs file has been saved, do the same for the “output file directory” to specify the folder location for saving your text file (Figure 18). Now select “Process”. This will generate an output text file that can be processed using the scripts included in the GitHub repository (see ‘Annotation summary and quality control’). 
 
-
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image15.jpg "image_tooltip")
-
-
+![alt_text](images/figures/hab16.jpg "image_tooltip")
 
 #### Figure 16: Writing to file in TransectMeasure in order to save image observations.
 
-
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.jpg "image_tooltip")
-
-
+![alt_text](images/figures/hab17.jpg "image_tooltip")
 
 #### Figure 17: The ‘batch text file output’ option in TransectMeasure.
 
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image17.jpg "image_tooltip")
-
-
+![alt_text](images/figures/hab18.jpg "image_tooltip")
 
 #### Figure 18: Input and output file directory options for batch text file outputs in TransectMeasure.
-
 
 ## Recommended approaches
 
