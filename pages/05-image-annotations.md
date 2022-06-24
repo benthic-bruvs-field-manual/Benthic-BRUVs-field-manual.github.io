@@ -419,8 +419,8 @@ Lodging metadata with AODN in advance of annotation data being available is an i
 * Chair
 </p>
 
-## *Supp. 8: Habitat annotation of stereo-BRUV imagery*
-## Benthic composition and relief for horizontally facing imagery
+###*Supp. 8: Habitat annotation of stereo-BRUV imagery*
+#### Benthic composition and relief for horizontally facing imagery
 
 We have developed a simple approach to characterise benthic composition and complexity from horizontally facing imagery (including stereo-BRUVs and panoramic drop cameras), adapting existing standardised schema for benthic composition ([CATAMI classification scheme](https://github.com/catami/catami.github.com/blob/master/catami-docs/CATAMI%20class_PDFGuide_V4_20141218.pdf)) and benthic complexity <sup><a href="https://paperpile.com/c/0wnItn/M1vE">1</a></sup>.
 
@@ -437,12 +437,10 @@ This github repository contains:
 * Example [detailed schema](https://github.com/BrookeGibbons/forward-facing-habitat-annotation/blob/master/TM%20schema_BROAD.MORPH.TYPE.txt) text file with broad, morphology, type and fine attributes
 
 
-## Standard Operating Procedure
+#### Standard Operating Procedure
 
 
-### 1. Load images and attribute file
-
-
+#### 1. Load images and attribute file
 
 * Open the program TransectMeasure and you will be welcomed with a blank screen (Figure 1).
 * To start an analysis for a new set of images: “Measurement” > “New measurement file” (Figure 2). Select “Read from file ...”.
@@ -451,28 +449,25 @@ This github repository contains:
     * Retake images if they are unfocused and blurry or when visibility is low.
     * For stereo-BRUV imagery, left images are annotated, and for panoramic drop camera imagery, top images are annotated.
 * To load the attribute file containing all of the CATAMI habitat classification codes: “Measurements” > “Load attribute file ...” > The attribute file is a text file containing the information necessary for populating the drop down tabs when classifying your image (Figure 4).
-* 
+
 ![alt_text](images/figures/hab1.jpg "image_tooltip")
 
-#### Figure 1: TransectMeasure initial opening screen. 
+##### Figure 1: TransectMeasure initial opening screen. 
 
 ![alt_text](images/figures/hab2.jpg "image_tooltip")
 
-#### Figure 2: Creating a new measurement file in TransectMeasure.
+##### Figure 2: Creating a new measurement file in TransectMeasure.
 
 ![alt_text](images/figures/hab3.jpg "image_tooltip")
 
-#### Figure 3: Setting the picture directory and loading the image in TransectMeasure.
+##### Figure 3: Setting the picture directory and loading the image in TransectMeasure.
 
 ![alt_text](images/figures/hab4.png "image_tooltip")
 
-#### Figure 4: Loading the attribute file in TransectMeasure.
+##### Figure 4: Loading the attribute file in TransectMeasure.
 
 
-### 
-2. Setting and overlaying the grid
-
-
+#### 2. Setting and overlaying the grid
 
 * To set up the area of interest: Hold shift and left click on the four corners of the rectangle that forms the lower 50% of the image > Right click > “Add new area of interest” (Figure 5). 
 * To set up the points: “Measurements” > “Dot configuration ...”. Set accordingly: Random dots, ‘Number of dots’ = 20 and uncheck the “Overlay rectangles” box (Figure 6). This will allow you to classify the benthic composition according to 20 randomly generated points over the lower 50% of the screen. You should only need to change these settings the first time you use the program on your computer.
@@ -482,26 +477,25 @@ NOTE: To annotate composite imagery, multiple areas of interest will need to be 
 
 ![alt_text](images/figures/hab5.png "image_tooltip")
 
-#### Figure 5: Adding a new area of interest in TransectMeasure.
+##### Figure 5: Adding a new area of interest in TransectMeasure.
 
 ![alt_text](images/figures/hab6.png "image_tooltip")
 
-#### Figure 6: Setting the dot configuration in TransectMeasure.
+##### Figure 6: Setting the dot configuration in TransectMeasure.
 
 ![alt_text](images/figures/hab7.png "image_tooltip")
 
-#### Figure 7: Adding dots in TransectMeasure.
+##### Figure 7: Adding dots in TransectMeasure.
 
 ![alt_text](images/figures/hab8.png "image_tooltip")
 
-#### Figure 8: Example of a stereo-BRUV image with random points added to the lower 50% of the image ready for annotation. 
+##### Figure 8: Example of a stereo-BRUV image with random points added to the lower 50% of the image ready for annotation. 
 
 ![alt_text](images/figures/hab9.png "image_tooltip")
 
 #### Figure 9: Example of a fully annotated panoramic drop camera composite image. The red box in the bottom right image denotes the custom area of interest used to overlay the annotation points in TransectMeasure.
 
-### 
-3. Classifying the benthic composition in an image
+#### 3. Classifying the benthic composition in an image
 
 * Left click on a point to display the “Attribute editor” (Figure 10)
 * Select the biota that lies directly underneath the point from the “BROAD” dropdown (includes benthos, un/consolidated substrate, open water and unknown). 
@@ -522,8 +516,7 @@ Note: Zoom into an image to analyse the benthic composition more closely by adju
 #### Figure 10: The ‘attribute editor’ window within TransectMeasure.
 
 
-### 
-4. Classifying the relief of an image
+#### 4. Classifying the relief of an image
 
 Annotation of relief will need to be annotated in a separate TransectMeasure file (.TMObs), which can be set up by following the same steps defined in ‘1. Load images and attribute file’. 
 
@@ -541,7 +534,7 @@ NOTE: For composite imagery that consists of multiple images, gridded dot config
     * Open (Camera system has landed upright and level on the substrate with an adequate amount of habitat available for classification). 
 * The dropdown for “Relief” indicates the structural complexity of the substrate and associated benthos. This dropdown includes six distinct categories adapted from Wilson et al. (2006), which are;
     * **0. **Flat substrate, sandy, rubble with few features. ~0 substrate slope
-    * **1.** Some relief features amongst mostly flat substrate/sand/rubble. &lt;45 degree substrate slope
+    * **1. ** Some relief features amongst mostly flat substrate/sand/rubble. &lt;45 degree substrate slope
     * **2. **Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope
     * **3. **Good relief structure with some overhangs. >45 substrate slope
     * **4. **High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope.
@@ -551,15 +544,15 @@ NOTE: Any ‘rectangle’ that has some form of benthos/substrate visible should
 
 ![alt_text](images/figures/hab11.png "image_tooltip")
 
-#### Figure 11: Setting the dot configuration in TransectMeasure.
+##### Figure 11: Setting the dot configuration in TransectMeasure.
 
 ![alt_text](images/figures/hab12.png "image_tooltip")
 
-#### Figure 12: Adding dots to an image in TransectMeasure.
+##### Figure 12: Adding dots to an image in TransectMeasure.
 
 ![alt_text](images/figures/hab13.png "image_tooltip")
 
-#### Figure 13: Example of a stereo-BRUV image annotated for relief, showing measurements labels for field of view.
+##### Figure 13: Example of a stereo-BRUV image annotated for relief, showing measurements labels for field of view.
 
 ![alt_text](images/figures/hab14.png "image_tooltip")
 
@@ -567,11 +560,10 @@ Figure 14: Example of a panoramic drop camera composite image annotated for reli
 
 ![alt_text](images/figures/hab15.jpg "image_tooltip")
 
-#### Figure 15: The ‘attribute editor’ window within TransectMeasure.
+##### Figure 15: The ‘attribute editor’ window within TransectMeasure.
 
 
-### 
-5. Saving and exporting from TransectMeasure
+#### 5. Saving and exporting from TransectMeasure
 
 * To save your work: “Measurements” > “Write to file ...” (Figure 16). This creates a *.TMObs file where your benthic classifications will be saved.
 * To export TMObs file: “Program” > “Batch text file output ...” (Figure 17)
@@ -579,17 +571,17 @@ Figure 14: Example of a panoramic drop camera composite image annotated for reli
 
 ![alt_text](images/figures/hab16.jpg "image_tooltip")
 
-#### Figure 16: Writing to file in TransectMeasure in order to save image observations.
+##### Figure 16: Writing to file in TransectMeasure in order to save image observations.
 
 ![alt_text](images/figures/hab17.jpg "image_tooltip")
 
-#### Figure 17: The ‘batch text file output’ option in TransectMeasure.
+##### Figure 17: The ‘batch text file output’ option in TransectMeasure.
 
 ![alt_text](images/figures/hab18.jpg "image_tooltip")
 
-#### Figure 18: Input and output file directory options for batch text file outputs in TransectMeasure.
+##### Figure 18: Input and output file directory options for batch text file outputs in TransectMeasure.
 
-## Recommended approaches
+### Recommended approaches
 
 For standard (rapid) assessment of _Benthic Composition_, _FieldOfView_ and _Relief _we recommend using ONLY the: “BROAD” classification within the _Benthic Composition_ and _FieldOfView_ and _Relief_. An experienced analyst would be able to annotate this schema to over 200 images a day.
 
@@ -600,7 +592,7 @@ For detailed assessment of _Benthic Composition_ (where coral bleaching or macro
 Forward facing imagery can be annotated in a range of software, including TransectMeasure from SeaGIS ([seagis.com.au](https://www.seagis.com.au/)), ReefCloud ([reefcloud.ai](http://reefcloud.ai)), CoralNet ([coralnet.ucsd.edu](https://coralnet.ucsd.edu/)), and Squidle+ ([squidle.org](https://squidle.org/)). 
 
 
-## Annotation summary and quality control
+#### Annotation summary and quality control
 
 All corrections should be made within the original annotation files to ensure data consistency over time. We recommend the following approaches to ensure quality control:
 
@@ -609,7 +601,7 @@ All corrections should be made within the original annotation files to ensure da
 * Check that the image names match the metadata sample names.
 * Check all successful deployments have benthic composition data.
 
-## Examples of publications that have used this or earlier versions of this SOP
+#### Examples of publications that have used this or earlier versions of this SOP
 
 1.	Wilson, S. K., Graham, N. A. J., Pratchett, M. S., Jones, G. P. & Polunin, N. V. C. Multiple disturbances and the global degradation of coral reefs: are reef fishes at risk or resilient? Glob. Chang. Biol. 12, 2220–2234 (2006).
 2.	McLean, D. L. et al. Distribution, abundance, diversity and habitat associations of fishes across a bioregion experiencing rapid coastal development. Estuarine, Coastal and Shelf Science 178, 36–47 (2016).
