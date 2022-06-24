@@ -555,7 +555,7 @@ NOTE: Any ‘rectangle’ that has some form of benthos/substrate visible should
 
 ![alt_text](images/figures/hab14.png "image_tooltip")
 
-Figure 14: Example of a panoramic drop camera composite image annotated for relief, showing annotation labels for field of view.
+##### Figure 14: Example of a panoramic drop camera composite image annotated for relief, showing annotation labels for field of view.
 
 ![alt_text](images/figures/hab15.jpg "image_tooltip")
 
