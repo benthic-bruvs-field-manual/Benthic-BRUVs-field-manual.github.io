@@ -419,7 +419,7 @@ Lodging metadata with AODN in advance of annotation data being available is an i
 * Chair
 </p>
 
-###*Supp. 8: Habitat annotation of stereo-BRUV imagery*
+### *Supp. 8: Habitat annotation of stereo-BRUV imagery*
 #### Benthic composition and relief for horizontally facing imagery
 
 We have developed a simple approach to characterise benthic composition and complexity from horizontally facing imagery (including stereo-BRUVs and panoramic drop cameras), adapting existing standardised schema for benthic composition ([CATAMI classification scheme](https://github.com/catami/catami.github.com/blob/master/catami-docs/CATAMI%20class_PDFGuide_V4_20141218.pdf)) and benthic complexity <sup><a href="https://paperpile.com/c/0wnItn/M1vE">1</a></sup>.
@@ -438,7 +438,6 @@ This github repository contains:
 
 
 #### Standard Operating Procedure
-
 
 #### 1. Load images and attribute file
 
@@ -493,7 +492,7 @@ NOTE: To annotate composite imagery, multiple areas of interest will need to be 
 
 ![alt_text](images/figures/hab9.png "image_tooltip")
 
-#### Figure 9: Example of a fully annotated panoramic drop camera composite image. The red box in the bottom right image denotes the custom area of interest used to overlay the annotation points in TransectMeasure.
+##### Figure 9: Example of a fully annotated panoramic drop camera composite image. The red box in the bottom right image denotes the custom area of interest used to overlay the annotation points in TransectMeasure.
 
 #### 3. Classifying the benthic composition in an image
 
@@ -513,7 +512,7 @@ Note: Zoom into an image to analyse the benthic composition more closely by adju
 
 ![alt_text](images/figures/hab10.jpg "image_tooltip")
 
-#### Figure 10: The ‘attribute editor’ window within TransectMeasure.
+##### Figure 10: The ‘attribute editor’ window within TransectMeasure.
 
 
 #### 4. Classifying the relief of an image
