@@ -419,7 +419,7 @@ Lodging metadata with AODN in advance of annotation data being available is an i
 * Chair
 </p>
 
-### *Supp. 8: Habitat annotation of stereo-BRUV imagery*
+## *Supp. 8: Habitat annotation of stereo-BRUV imagery*
 #### Benthic composition and relief for horizontally facing imagery
 
 We have developed a simple approach to characterise benthic composition and complexity from horizontally facing imagery (including stereo-BRUVs and panoramic drop cameras), adapting existing standardised schema for benthic composition ([CATAMI classification scheme](https://github.com/catami/catami.github.com/blob/master/catami-docs/CATAMI%20class_PDFGuide_V4_20141218.pdf)) and benthic complexity <sup><a href="https://paperpile.com/c/0wnItn/M1vE">1</a></sup>.
