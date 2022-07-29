@@ -8,11 +8,12 @@ page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
 ---
+
 <div align="center"><p style="font-size:20px;">Tim Langlois, <a href="mailto:jordan.goetze@dbca.wa.gov.au">Jordan Goetze</a>, Todd Bond, Jacquomo Monk, Rene A. Abesamis, Jacob Asher, Neville Barrett, Anthony T. F. Bernard, Phil J. Bouchet, Matthew J. Birt, Mike Cappo, Leanne M. Currey-Randall, Damon Driessen, David V. Fairclough, Laura A.F. Fullwood, Brooke A. Gibbons, David Harasti, Michelle R Heupel, Jamie Hicks, Thomas H. Holmes, Charlie Huveneers, Daniel Ierodiaconou, Alan Jordan, Nathan A. Knott, Hamish A. Malcolm, Dianne McLean, Mark Meekan, David Miller, Peter J. Mitchell, Stephen J. Newman, Ben Radford, Fernanda A. Rolim, Benjamin J. Saunders, Marcus Stowar, Adam N. H. Smith, Michael J. Travers, Corey B. Wakefield, Sasha K. Whitmarsh, Joel Williams & Euan S. Harvey</p></div><br>
 <img src="images/banners/09_5x8.jpg" width="100%">
 <br>
 <br>
-<strong>Chapter citation:</strong><br>TBC
+<strong>Chapter citation:</strong><br>Langlois, T, Goetze, J, Bond, T, et al. A field and video annotation guide for baited remote underwater stereo-video surveys of demersal fish assemblages. Methods Ecol Evol. 2020; 11: 1401– 1409. https://doi.org/10.1111/2041-210X.13470
 
 | Chapter Contents                                                                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
