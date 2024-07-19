@@ -46,6 +46,8 @@ Figure 5:  Stereo-BRUV systems developed by the Australian Institute of Marine S
 6. Purchase bait and ensure it can be stored appropriately for the duration of fieldwork. 
 7. Create a metadata sheet or preferably using a capture device (e.g. Collector for ArcGIS or QGIS, tablet computer with GIS) to record the sample, stereo-camera pair and memory card unique identifier in addition to other essential field data (Table 1 and Table 2). By capturing metadata digitally transcription errors and post-field work time are reduced.
 
+#### Table 1. Suggested columns for the sample metadata. Transposed (rows for columns) for formatting convenience.
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -195,6 +197,10 @@ Figure 5:  Stereo-BRUV systems developed by the Australian Institute of Marine S
     <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✘</span></td>
   </tr>
 </tbody></table>
+
+
+#### Table 2. An example of the first five rows of a $_Metadata.csv file. This is an example for a campaign with additional backwards facing cameras for habitat annotation where the sample is defined using the opcode column only.
+
 
 
 <style type="text/css">
