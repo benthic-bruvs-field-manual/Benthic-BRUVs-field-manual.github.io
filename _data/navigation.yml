@@ -3,18 +3,26 @@
   url: https://benthic-bruvs-field-manual.github.io/files/Version2a_BenthicStereoBRUVsFieldManual.pdf
   excerpt: ""
   image: /5x8/download_5x8.jpg
-- title: "Platform Description"
-  url: https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design
-  excerpt: ""
-  image: /5x8/02_5x8.jpg
-- title: "Scope"
+- title: "Introduction"
   url: https://benthic-bruvs-field-manual.github.io/introduction
   excerpt: ""
   image: /5x8/00_5x8.jpg
+- title: "Platform Description"
+  url: https://benthic-bruvs-field-manual.github.io/stereo-BRUV-design
+  excerpt: ""
+  image: /5x8/01_5x8.jpg
+- title: "Scope"
+  url: https://benthic-bruvs-field-manual.github.io/scope
+  excerpt: ""
+  image: /5x8/02_5x8.jpg
+- title: "Survey Planning"
+  url: https://benthic-bruvs-field-manual.github.io/survey-planning
+  excerpt: ""
+  image: /5x8/03_5x8.jpg
 - title: "Sampling Design"
   url: https://benthic-bruvs-field-manual.github.io/sampling-design
   excerpt: ""
-  image: /5x8/03_5x8.jpg
+  image: /5x8/04_5x8.jpg
 - title: "Field Logistics"
   url: https://benthic-bruvs-field-manual.github.io/field-logistics
   excerpt: ""
@@ -22,15 +30,15 @@
 - title: "Image Annotations"
   url: https://benthic-bruvs-field-manual.github.io/image-annotations
   excerpt: ""
-  image: /5x8/09_5x8.jpg
-#- title: "Conclusion"
-#  url: https://benthic-bruvs-field-manual.github.io/conclusion
-#  excerpt: ""
-#  image: /5x8/06_5x8.jpg
+  image: /5x8/05_5x8.jpg
+- title: "Conclusion"
+  url: https://benthic-bruvs-field-manual.github.io/conclusion
+  excerpt: ""
+  image: /5x8/07_5x8.jpg
 - title: "Acknowledgements"
   url: https://benthic-bruvs-field-manual.github.io/acknowledgements
   excerpt: ""
-  image: /5x8/04_5x8.jpg
+  image: /5x8/08_5x8.jpg
 - title: "Field Manual Maintenance"
   url: https://benthic-bruvs-field-manual.github.io/field-manual-maintenance
   excerpt: ""
