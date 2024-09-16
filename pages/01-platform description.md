@@ -28,6 +28,7 @@ Newer versions of GoPro cameras (9/10/11/12), paired with GoPro Labs, allow user
 
 [See here](https://benthic-bruvs-field-manual.github.io/files/GoPro-Hero-12-set-up.pdf) for a step by step guide on setting up a GoPro 12 with QR codes.
 
+![alt_text](images/figures/gopro-qr-codes.jpg "image_tooltip")
 
 ## Bait
 
