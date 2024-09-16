@@ -13,5 +13,5 @@ Stereo-BRUVs (Baited Remote Underwater Video Systems) are an excellent method fo
 Please see the video below as a real world example of undergraduate students at the University of Western Australia using stereo-BRUVs in a field research project.
 <iframe src="
 https://player.vimeo.com/video/973587182?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="UWA Field Techniques Albany Field trip - stereo-BRUV survey for King George Whiting"></iframe></div><script src="
+frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="UWA Field Techniques Albany Field trip - stereo-BRUV survey for King George Whiting"></iframe><script src="
 https://player.vimeo.com/api/player.js"></script>
