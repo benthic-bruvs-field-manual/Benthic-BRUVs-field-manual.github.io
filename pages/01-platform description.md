@@ -21,6 +21,14 @@ We recommend cameras with full, high-definition resolution of at least 1920 x 10
 
 Stereo-calibrations must be made both prior to and following a field campaign.  Given the required tolerances involved with stereo-BRUV construction, we recommend seeking manufacture and calibration advice from recognised providers or adhering to strict specifications. Any changes in camera positioning (e.g. if a camera is dismounted during battery replacement) will disrupt the stereo-calibration, resulting in measurement error. For this reason, most “off-the-shelf” housings remain unsuitable for stereo-BRUVs. Figure 1h provides an example of a camera that is secured to the housing faceplate to ensure stability. Each housing and camera should be uniquely identified, ensuring the latter are only used on the system they are calibrated for. A flashing LED may be added to the end of the diode arm to aid synchronisation of imagery from the left and right cameras when submerged (Figure 1).
 
+Newer versions of GoPro cameras (9/10/11/12), paired with GoPro Labs, allow users to quickly set custom settings using QR codes for streamlined configuration of settings.
+1. Download GoPro Labs firmware file and install it on the camera ([gopro.github.io/labs/](https://gopro.github.io/labs/)) 
+2. Generate the QR code either with a [web configurator](https://gopro.github.io/labs/control/custom/) or in GoPro Labs mobile app.
+3. Point GoPro at the QR code and let the camera scan it automatically.
+
+[See here](https://benthic-bruvs-field-manual.github.io/files/GoPro-Hero-12-set-up.pdf) for a step by step guide on setting up a GoPro 12 with QR codes.
+
+
 ## Bait
 
 As a general rule, locally sourced, sardine-type oily bait is recommended (Dorman et al. 2012), as the oil disperses to attract fish. Sourcing sardine bait locally from factory discards (e.g. fish heads, tails and guts) will reduce the survey’s ecological footprint, cost of sampling and potential for disease translocation. We recommend 0.8 - 1 kg of roughly crushed bait, positioned between 1.2 m and 1.5 m in front of the cameras with the mesh bait bag as close to the benthos as possible. Positioning outside of this range will reduce the ability to identify and measure individuals. 
