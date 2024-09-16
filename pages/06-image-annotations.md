@@ -10,12 +10,12 @@ image:
 
 ## Software
 
-Software specifically designed to annotate and measure fish from stereo-video will substantially increase the cost-efficiency and consistency of image annotation (Gomes-Pereira et al. 2016). For stereo-video the challenge is not the annotation by the calibration of imagery to provide accurate length and range measurement. Annotation software and packages with measurement capabilities include Vision Measurement System (Harman, Harvey & Kendrick 2003), NIH Image (Dunbrack 12/2006), SEBASTES package in Python (Boldt et al. 2018), StereoMorph package in R (Olsen & Westneat 2015), and EventMeasure from SeaGIS ([seagis.com.au](seagis.com.au)). We recommend EventMeasure due to its established workflow, ability to create 3-D stereo-calibrations, and active development, which enables cost-effective and consistent point and stereo annotation of video imagery. Manual image annotation and measurement can be time consuming, but the emerging field of automated image annotation provides promise of increased cost efficiency and collection of novel metrics (Marini et al. 2018).
+Software specifically designed to annotate and measure fish from stereo-video will substantially increase the cost-efficiency and consistency of image annotation (Gomes-Pereira et al. 2016). For stereo-video the challenge is not the annotation but the calibration of imagery to provide accurate length and range measurement. Annotation software and packages with measurement capabilities include Vision Measurement System (Harman, Harvey & Kendrick 2003), NIH Image (Dunbrack 12/2006), SEBASTES package in Python (Boldt et al. 2018), StereoMorph package in R (Olsen & Westneat 2015), and EventMeasure from SeaGIS ([seagis.com.au](seagis.com.au)). We recommend EventMeasure due to its established workflow, ability to create 3-D stereo-calibrations, and active development, which enables cost-effective and consistent point and stereo annotation of video imagery. Manual image annotation and measurement can be time consuming, but the emerging field of automated image annotation provides promise of increased cost efficiency and collection of novel metrics (Marini et al. 2018).
 
 
 ## Annotation metadata
 
-Field metadata (Table 1) should be used to populate a unique sample code for each sample and annotation set. Time on the seabed should be annotated to provide a start time for the stereo-BRUV deployment period. It is important that the link between annotations and imagery are maintained.
+Field metadata (Table 2) should be used to populate a unique sample code for each sample and annotation set. Time on the seabed should be annotated to provide a start time for the stereo-BRUV deployment period. It is important that the link between annotations and imagery are maintained.
 
 
 ## Abundance estimates
@@ -25,200 +25,143 @@ We recommend all fish be identified to the lowest taxonomic level possible. The 
 
 ## Body-size measurements
 
-Synchronised and calibrated stereo-video streams are used to accurately measure body size. All individuals of each species should be measured at their MaxN. We recommend measuring fork length rather than total length, as it is more easily definable across a range of species. Biomass estimates typically rely on total length, but fork length to total length conversions can be used to complete these calculations (Froese & Pauly 2019). For species where total length can be unreliable or there is no definable fork, body size is estimated using other measures (e.g. disk length for rays). Photogrammetric length measurements are typically made with some degree of error, which can be minimised by measuring individuals when they are as close to cameras as possible with both the nose and the tail-fork clearly visible, still or slowly moving, at an angle less than 45° perpendicular to the cameras. Defining cut-offs for measurement error across projects will help to maintain accurate and precise body-size estimates, we provide recommended stereo-measurement length rules for EventMeasure in Table 3. If fish cannot be measured within these parameters, a ‘3D point’ may be used for annotation, which records the 3D location of the fish to ensure it is within the sampling area (Harvey et al. 2004). To create a relative abundance metric standardised to a consistent sample area, abundance should be summed from the lengths and 3D points at the MaxN for each species. For biomass estimates, 3D points provide a basis for extrapolating a median length value to fish that could not be measured (Wilson et al. 2018). When large tightly packed schools are encountered, fish that cannot be measured should have 3D points. When lengths or 3D points are not possible for every fish, multiple individuals can be assigned to a single length or 3D point, but care should be taken to represent the range of body sizes within a school. Please see the [Annotation guides on the CheckEM website](https://globalarchivemanual.github.io/CheckEM/articles/manuals/EventMeasure_annotation_guide.html) for a step by step guide.
+Synchronised and calibrated stereo-video streams are used to accurately measure body size. All individuals of each species should be measured at their MaxN. We recommend measuring fork length rather than total length, as it is more easily definable across a range of species. Biomass estimates typically rely on total length, but fork length to total length conversions can be used to complete these calculations (Froese & Pauly 2019). For species where total length can be unreliable or there is no definable fork, body size is estimated using other measures (e.g. disk length for rays). Photogrammetric length measurements are typically made with some degree of error, which can be minimised by measuring individuals when they are as close to cameras as possible with both the nose and the tail-fork clearly visible, still or slowly moving, at an angle less than 45° perpendicular to the cameras. Defining cut-offs for measurement error across projects will help to maintain accurate and precise body-size estimates, we provide recommended stereo-measurement length rules for EventMeasure in Table 4. If fish cannot be measured within these parameters, a ‘3D point’ may be used for annotation, which records the 3D location of the fish to ensure it is within the sampling area (Harvey et al. 2004). To create a relative abundance metric standardised to a consistent sample area, abundance should be summed from the lengths and 3D points at the MaxN for each species. For biomass estimates, 3D points provide a basis for extrapolating a median length value to fish that could not be measured (Wilson et al. 2018). When large tightly packed schools are encountered, fish that cannot be measured should have 3D points. When lengths or 3D points are not possible for every fish, multiple individuals can be assigned to a single length or 3D point, but care should be taken to represent the range of body sizes within a school. Please see the [Annotation guides on the CheckEM website](https://globalarchivemanual.github.io/CheckEM/articles/manuals/EventMeasure_annotation_guide.html) for a step by step guide.
 
 
-## Table 3. Recommended stereo-measurement length rules for EventMeasure.
+## Table 4. Recommended stereo-measurement length rules for EventMeasure.
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-aoc0{background-color:#629ACD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 785px"><colgroup>
+<col style="width: 297.88889px">
+<col style="width: 231.88889px">
+<col style="width: 254.88889px">
+</colgroup>
+<thead>
   <tr>
-   <td><strong>Name</strong>
-   </td>
-   <td><strong>Data</strong>
-   </td>
-   <td><strong>Units</strong>
-   </td>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Name</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Data</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Units</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Use lengths rules</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">True</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Boolean</span></td>
   </tr>
   <tr>
-   <td>Use lengths rules
-   </td>
-   <td>True
-   </td>
-   <td>Boolean
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Apply range rule</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">True</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Boolean</span></td>
   </tr>
   <tr>
-   <td>Apply range rule
-   </td>
-   <td>True
-   </td>
-   <td>Boolean
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Minimum range</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">0.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">mm</span></td>
   </tr>
   <tr>
-   <td>Minimum range
-   </td>
-   <td>0.0000
-   </td>
-   <td>mm
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Maximum range</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">8000.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">mm</span></td>
   </tr>
   <tr>
-   <td>Maximum range
-   </td>
-   <td>8000.0000
-   </td>
-   <td>mm
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Apply RMS rules</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">True</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Boolean</span></td>
   </tr>
   <tr>
-   <td>Apply RMS rules
-   </td>
-   <td>True
-   </td>
-   <td>Boolean
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Maximum RMS</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">20.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">mm</span></td>
   </tr>
   <tr>
-   <td>Maximum RMS
-   </td>
-   <td>20.0000
-   </td>
-   <td>mm
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Apply precision to length ratio rules</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">True</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Boolean</span></td>
   </tr>
   <tr>
-   <td>Apply precision to length ratio rules
-   </td>
-   <td>True
-   </td>
-   <td>Boolean
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Maximum precision to length ratio</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">10.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">%</span></td>
   </tr>
   <tr>
-   <td>Maximum precision to length ratio
-   </td>
-   <td>10.0000
-   </td>
-   <td>%
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Apply precision rule</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">False</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Boolean</span></td>
   </tr>
   <tr>
-   <td>Apply precision rule
-   </td>
-   <td>False
-   </td>
-   <td>Boolean
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Maximum precision</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">10.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">mm</span></td>
   </tr>
   <tr>
-   <td>Maximum precision
-   </td>
-   <td>10.0000
-   </td>
-   <td>mm
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Apply direction rule</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">False</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Boolean</span></td>
   </tr>
   <tr>
-   <td>Apply direction rule
-   </td>
-   <td>False
-   </td>
-   <td>Boolean
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Maximum direction</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">45.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Degrees</span></td>
   </tr>
   <tr>
-   <td>Maximum direction
-   </td>
-   <td>45.0000
-   </td>
-   <td>Degrees
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Apply horizontal direction rule</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">False</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Boolean</span></td>
   </tr>
   <tr>
-   <td>Apply horizontal direction rule
-   </td>
-   <td>False
-   </td>
-   <td>Boolean
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Maximum horizontal direction</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">45.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Degrees</span></td>
   </tr>
   <tr>
-   <td>Maximum horizontal direction
-   </td>
-   <td>45.0000
-   </td>
-   <td>Degrees
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Apply vertical direction rule</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">False</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Boolean</span></td>
   </tr>
   <tr>
-   <td>Apply vertical direction rule
-   </td>
-   <td>False
-   </td>
-   <td>Boolean
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Maximum vertical direction</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">45.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Degrees</span></td>
   </tr>
   <tr>
-   <td>Maximum vertical direction
-   </td>
-   <td>45.0000
-   </td>
-   <td>Degrees
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Apply x coordinate range rule</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">False</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Boolean</span></td>
   </tr>
   <tr>
-   <td>Apply x coordinate range rule
-   </td>
-   <td>False
-   </td>
-   <td>Boolean
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Minimum x coordinate</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-2500.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">mm</span></td>
   </tr>
   <tr>
-   <td>Minimum x coordinate
-   </td>
-   <td>-2500.0000
-   </td>
-   <td>mm
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Maximum x coordinate</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2500.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">mm</span></td>
   </tr>
   <tr>
-   <td>Maximum x coordinate
-   </td>
-   <td>2500.0000
-   </td>
-   <td>mm
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Apply y coordinate range rule</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">False</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Boolean</span></td>
   </tr>
   <tr>
-   <td>Apply y coordinate range rule
-   </td>
-   <td>False
-   </td>
-   <td>Boolean
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Minimum y coordinate</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-2500.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">mm</span></td>
   </tr>
   <tr>
-   <td>Minimum y coordinate
-   </td>
-   <td>-2500.0000
-   </td>
-   <td>mm
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Maximum y coordinate</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2500.0000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">mm</span></td>
   </tr>
-  <tr>
-   <td>Maximum y coordinate
-   </td>
-   <td>2500.0000
-   </td>
-   <td>mm
-   </td>
-  </tr>
-</table>
-
-
- 
+</tbody></table>
 
 
 ## Behaviour
@@ -240,20 +183,24 @@ Information on relief, habitat types, and benthic composition (e.g. percent cove
 
 Quality control and data curation are vital to ensure FAIR data workflows (Wilkinson et al. 2016). All corrections should be made within the original annotation files to ensure data consistency over time. We recommend the following approaches to ensure quality control:
 
+
+
 * Annotators should complete “training” videos where species IDs and MaxN are known and can be used to assess competency.
 * A different annotator should complete the MaxN and length measurement annotations to provide an independent check of the species identifications.
 * Quality assurance should be carried out by a senior video analyst or researcher and involve a random review of 10% of annotated videos and data within a project. If accuracy is below 95 % for all identifications and estimates of MaxN, reannotation should be undertaken.
-* Unique identifiers of annotators and dates of when imagery was annotated should be maintained to provide a data checking trail (see Table 1 and Table 2).
+* Unique identifiers of annotators and dates of when imagery was annotated should be maintained to provide a data checking trail (see Table 2 and Table 3).
 
-R workflows and functions are provided on the CheckEM website available at  ([https://globalarchivemanual.github.io/CheckEM/](https://globalarchivemanual.github.io/CheckEM/)) to enable validation with regional species lists and likely minimum and maximum sizes for each species. A web based application is also available at ([https://marine-ecology.shinyapps.io/CheckEM/](https://marine-ecology.shinyapps.io/CheckEM/)) for those who are not familiar with R.
-
+R workflows and functions are provided on the CheckEM website available at  ([globalarchivemanual.github.io/CheckEM/](https://globalarchivemanual.github.io/CheckEM/)) to enable validation with regional species lists and likely minimum and maximum sizes for each species. A web based application is also available at ([marine-ecology.shinyapps.io/CheckEM/](https://marine-ecology.shinyapps.io/CheckEM/)) for those who are not familiar with R.
 
 
 ## Data storage, discoverability and release
 
 We encourage open data policies and recommend archiving and sharing stereo-BRUV annotations on global biodiversity data repositories, such as OBIS (Ocean Biogeographic Information System), GBIF (Global Biodiversity Information Facility) and the recently developed GlobalArchive ([globalarchive.org](about:blank)). GlobalArchive is a centralised repository that allows open access and private sharing of fish image annotation data from stereo-BRUVs or similar imagery-based sampling techniques. GlobalArchive allows users to store data in a standardised and secure manner and makes meta-data discoverable, thus encouraging collaboration and synthesis of datasets within the community of practice. We recommend all quality controlled annotation data and any associated calibration, taxa and habitat data should be uploaded to GlobalArchive and we encourage that all data should be made publicly available via the public data option. As an example, the Australian standards for data management, discoverability and release are provided below.
 
-## Australian standards for data management, release, and discoverability of stereo-BRUV data
+
+## Australian Standards for Data Management, Release, and Discoverability of Stereo-BRUV Data
+
+
 ### Quality control and data curation
 
 Quality control and data curation are vital, but are potentially time consuming. These time considerations (and associated costs) should be considered during the survey planning stages.
@@ -269,100 +216,82 @@ All data corrections should be made within the original annotation files (i.e. w
 
 It cannot be stressed enough that any corrections should be made to the annotation files before data is exported to GlobalArchive or other repositories (i.e. only QA/QC and validation annotations should be publicly released).
 
-A national stereo-BRUV steering group has been set up to oversee a nationally coordinated BRUV monitoring program (Table 4). Any new stereo-BRUV deployments should be discussed with this steering group to ensure that, where possible, they can be integrated within the national program.
+A national stereo-BRUV steering group has been set up to oversee a nationally coordinated BRUV monitoring program (Table 5). Any new stereo-BRUV deployments should be discussed with this steering group to ensure that, where possible, they can be integrated within the national program.
 
-#### Table 4. Australian National BRUV working group, as of May 2020.*
+#### Table 5. Australian National BRUV Working Group, as of May 2020.
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-aoc0{background-color:#629ACD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 677px"><colgroup>
+<col style="width: 257.88889px">
+<col style="width: 247.88889px">
+<col style="width: 170.88889px">
+</colgroup>
+<thead>
   <tr>
-   <td>Name
-   </td>
-   <td>State
-   </td>
-   <td>Organisation
-   </td>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Name</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">State</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Organisation</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Euan Harvey*</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Western Australia</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Curtin</span></td>
   </tr>
   <tr>
-   <td>Euan Harvey*
-   </td>
-   <td>Western Australia
-   </td>
-   <td>Curtin
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Tim Langlois</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Western Australia</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">UWA</span></td>
   </tr>
   <tr>
-   <td>Tim Langlois
-   </td>
-   <td>Western Australia
-   </td>
-   <td>UWA
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Neville Barrett</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Tasmania</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">IMAS</span></td>
   </tr>
   <tr>
-   <td>Neville Barrett
-   </td>
-   <td>Tasmania
-   </td>
-   <td>IMAS
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Jacquomo Monk</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Tasmania/Victoria</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">IMAS</span></td>
   </tr>
   <tr>
-   <td>Jacquomo Monk
-   </td>
-   <td>Tasmania/Victoria
-   </td>
-   <td>IMAS
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Nathan Knott</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">New South Wales</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSW DPI</span></td>
   </tr>
   <tr>
-   <td>Nathan Knott
-   </td>
-   <td>New South Wales
-   </td>
-   <td>NSW DPI
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Hamish Malcolm</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">New South Wales</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSW DPI</span></td>
   </tr>
   <tr>
-   <td>Hamish Malcolm
-   </td>
-   <td>New South Wales
-   </td>
-   <td>NSW DPI
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Daniel Ierodiaconou</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Victoria</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Deakin</span></td>
   </tr>
   <tr>
-   <td>Daniel Ierodiaconou
-   </td>
-   <td>Victoria
-   </td>
-   <td>Deakin
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Charlie Huveneers</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">South Australia</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Flinders University</span></td>
   </tr>
   <tr>
-   <td>Charlie Huveneers
-   </td>
-   <td>South Australia
-   </td>
-   <td>Flinders University
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Daniel Brock</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">South Australia</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">SA DEWNR</span></td>
   </tr>
   <tr>
-   <td>Daniel Brock
-   </td>
-   <td>South Australia
-   </td>
-   <td>SA DEWNR
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Leanne Currey</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Queensland</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">AIMS</span></td>
   </tr>
-  <tr>
-   <td>Leanne Currey
-   </td>
-   <td>Queensland
-   </td>
-   <td>AIMS
-   </td>
-  </tr>
-</table>
+</tbody></table>
 
 
 <p>
@@ -387,12 +316,9 @@ The Project metadata record should document the project name, purpose, descripti
 ¹ See Global Archive definitions [here](https://globalarchivemanual.github.io/definitions).
 
 
-
 ### Data discoverability
 
 Following the steps listed below will ensure the timely release of video and associated annotation data in a standardised, highly discoverable format.
-
-
 
 1. Immediate post-trip reporting should be completed by creating a metadata record documenting the purpose of the BRUV sampling campaign, the survey design, all sampling locations, equipment specifications, and any challenges or limitations encountered. This can be done far in advance of annotation (scoring) of raw video which is time-consuming and often does not occur for some time following completion of sampling.
 2. Publish metadata record to the[ Australian Ocean Data Network (AODN) catalogue](http://catalogue.aodn.org.au/geonetwork/srv/eng/main.home) as soon as possible after metadata has been QA/QC. This can be done in one of two ways:
@@ -400,8 +326,6 @@ Following the steps listed below will ensure the timely release of video and ass
     * Otherwise, metadata records can be created and submitted via the[ AODN Data Submission Tool](https://metadataentry.aodn.org.au/submit). Note that user registration is required, but this is free and immediate.
 
 Lodging metadata with AODN in advance of annotation data being available is an important step in documenting the BRUV campaign and enhancing future discoverability of the data.
-
-
 
 1. Annotate video (fish counts and length) using EventMeasure or similar software.
 2. Upload annotation data and any associated calibration, taxa and habitat data to GlobalArchive.
